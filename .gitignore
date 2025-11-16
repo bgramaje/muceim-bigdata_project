@@ -7,3 +7,5 @@ __pycache__/
 .ipynb_checkpoints/
 bronze.db.wal
 .DS_Store
+mobility.db
+mobility.db.wal
