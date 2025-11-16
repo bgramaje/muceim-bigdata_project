@@ -1,3 +1,9 @@
 csvs/
 mobility.duckdb
 .venv/
+raw/
+bronze.db
+__pycache__/
+.ipynb_checkpoints/
+bronze.db.wal
+.DS_Store

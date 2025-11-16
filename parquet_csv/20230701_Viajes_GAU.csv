@@ -1,0 +1,825 @@
+fecha,periodo,origen,destino,distancia,actividad_origen,actividad_destino,residencia,renta,edad,sexo,viajes,viajes_km,estudio_destino_posible,estudio_origen_posible
+20230701,00,03123_AM,03123_AM,0.5-2,casa,trabajo_estudio,03,<10,NA,NA,13.054,16.27,false,false
+20230701,00,03902,03902,2-10,trabajo_estudio,casa,03,<10,45-65,hombre,16.256,61.153,false,false
+20230701,00,07003,07003,2-10,no_frecuente,no_frecuente,15,10-15,25-45,hombre,3.327,12.958,false,false
+20230701,00,07013,07013,0.5-2,frecuente,no_frecuente,07,10-15,0-25,hombre,6.415,9.029,false,false
+20230701,00,07033,GAU Palma de Mallorca,>50,no_frecuente,casa,07,10-15,25-45,NA,3.115,218.195,false,false
+20230701,00,09209_AM,09209_AM,2-10,frecuente,frecuente,48,10-15,25-45,mujer,1.81,4.201,false,false
+20230701,00,11006,11006,2-10,frecuente,casa,11,<10,45-65,mujer,32.963,111.898,false,false
+20230701,00,15071,15011,10-50,casa,frecuente,15,10-15,NA,NA,2.556,28.937,false,false
+20230701,00,17015,17137_AM,0.5-2,frecuente,frecuente,17,10-15,NA,NA,3.814,7.147,false,false
+20230701,00,18157_AM,18099_AM,10-50,no_frecuente,casa,18,10-15,NA,NA,5.256,66.119,false,false
+20230701,00,21044,21021,10-50,casa,trabajo_estudio,21,<10,NA,NA,5.793,75.742,false,false
+20230701,00,24014,24170_AM,0.5-2,casa,frecuente,24,10-15,NA,NA,2.975,4.289,false,false
+20230701,00,24092_AM,24092_AM,10-50,frecuente,frecuente,24,10-15,45-65,NA,2.963,33.605,false,false
+20230701,00,28036,GAU Madrid,2-10,frecuente,frecuente,45,10-15,0-25,NA,4.745,23.464,false,false
+20230701,00,31153_AM,FRI15,2-10,no_frecuente,no_frecuente,17,10-15,65-100,NA,1.021,8.019,false,false
+20230701,00,32067_AM,32075_AM,2-10,frecuente,casa,32,10-15,NA,NA,5.512,34.545,false,false
+20230701,00,41068,41068,2-10,no_frecuente,frecuente,41,10-15,0-25,mujer,8.672,66.769,false,false
+20230701,00,43020_AM,43016,2-10,trabajo_estudio,casa,43,10-15,NA,NA,12.494,41.292,false,false
+20230701,00,43037,43163,2-10,trabajo_estudio,frecuente,43,10-15,0-25,hombre,4.576,21.572,false,false
+20230701,00,43086,43166_AM,10-50,trabajo_estudio,frecuente,43,10-15,45-65,NA,1.0,13.581,false,false
+20230701,00,45188_AM,45188_AM,2-10,frecuente,frecuente,45,10-15,NA,NA,2.622,13.198,false,false
+20230701,00,46029,46105,10-50,frecuente,no_frecuente,46,>15,45-65,hombre,2.55,41.753,false,false
+20230701,00,46029,46233,10-50,frecuente,casa,46,10-15,NA,NA,2.205,22.116,false,false
+20230701,00,48906_AM,48046,2-10,casa,trabajo_estudio,48,>15,NA,NA,5.545,26.307,false,false
+20230701,00,GAU Cáceres,GAU Cáceres,0.5-2,frecuente,casa,10,10-15,0-25,hombre,180.694,224.166,false,false
+20230701,00,GAU Córdoba,14053,10-50,no_frecuente,casa,14,10-15,NA,NA,3.537,101.122,false,false
+20230701,00,GAU Denia - Jávea,GAU Denia - Jávea,0.5-2,frecuente,casa,03,10-15,65-100,NA,97.924,135.526,false,false
+20230701,00,GAU Eivissa,GAU Eivissa,2-10,no_frecuente,no_frecuente,08,>15,0-25,mujer,5.826,20.942,false,false
+20230701,00,GAU La Bahía de Cádiz,GAU La Bahía de Cádiz,0.5-2,casa,frecuente,11,<10,0-25,hombre,124.76,114.977,false,false
+20230701,00,GAU Málaga,GAU La Costa del Sol,2-10,casa,frecuente,29,<10,45-65,mujer,8.248,43.097,false,false
+20230701,00,GAU Valencia,46070,2-10,no_frecuente,frecuente,46,10-15,45-65,hombre,2.218,6.162,false,false
+20230701,01,03105,03089,10-50,casa,trabajo_estudio,03,<10,NA,NA,1.587,17.732,false,false
+20230701,01,06126_AM,06158,10-50,no_frecuente,casa,06,<10,NA,NA,2.435,54.628,false,false
+20230701,01,10195_AM,10195_AM,0.5-2,casa,trabajo_estudio,10,<10,65-100,NA,3.237,3.027,false,false
+20230701,01,14039_AM,14039_AM,2-10,trabajo_estudio,casa,14,<10,NA,NA,5.145,20.45,false,false
+20230701,01,15062,15057,2-10,frecuente,frecuente,15,10-15,45-65,NA,2.814,11.661,false,false
+20230701,01,23005,GAU Jaén,10-50,casa,no_frecuente,23,<10,45-65,hombre,4.851,171.188,false,false
+20230701,01,28018,28018,0.5-2,no_frecuente,no_frecuente,28,>15,25-45,mujer,4.777,5.023,false,false
+20230701,01,28082,28082,2-10,no_frecuente,frecuente,28,>15,65-100,mujer,5.973,42.963,false,false
+20230701,01,28169_AM,28901_AM,2-10,casa,frecuente,28,10-15,NA,NA,1.857,17.795,false,false
+20230701,01,29042,29008,2-10,frecuente,frecuente,18,10-15,65-100,hombre,2.067,6.928,false,false
+20230701,01,30017,30017,2-10,trabajo_estudio,casa,30,<10,65-100,NA,17.268,110.67,false,false
+20230701,01,31070,31249_AM,2-10,frecuente,casa,31,10-15,NA,NA,26.325,148.12,false,false
+20230701,01,36051,GAU Vigo - Pontevedra,10-50,casa,frecuente,36,10-15,NA,NA,16.348,184.69,false,false
+20230701,01,39060,39026_AM,10-50,no_frecuente,no_frecuente,28,>15,25-45,hombre,4.186,65.899,false,false
+20230701,01,48026_AM,48026_AM,2-10,frecuente,frecuente,48,10-15,45-65,mujer,3.488,12.212,false,false
+20230701,01,GAU Barcelona,43137_AM,2-10,no_frecuente,casa,43,10-15,NA,NA,2.103,17.669,false,false
+20230701,01,GAU Central de Asturias,33076,2-10,frecuente,casa,33,10-15,25-45,NA,4.597,31.431,false,false
+20230701,01,GAU Ceuta,GAU Ceuta,2-10,frecuente,casa,51,<10,NA,NA,459.374,1311.732,false,false
+20230701,01,GAU La Bahía de Cádiz,GAU La Bahía de Cádiz,2-10,casa,frecuente,11,10-15,65-100,hombre,54.012,292.859,false,false
+20230701,01,GAU La Costa del Sol,GAU Vélez-Málaga,>50,no_frecuente,frecuente,29,<10,45-65,hombre,2.612,170.308,false,false
+20230701,01,GAU Murcia,GAU Murcia,10-50,no_frecuente,casa,30,<10,25-45,mujer,15.571,281.731,false,false
+20230701,01,GAU Ourense,GAU Ourense,2-10,trabajo_estudio,frecuente,32,>15,0-25,NA,4.562,10.208,false,false
+20230701,01,GAU Palencia,GAU Palencia,0.5-2,casa,trabajo_estudio,34,10-15,65-100,NA,1.878,2.278,false,false
+20230701,01,GAU Ponferrada,GAU Ponferrada,2-10,no_frecuente,no_frecuente,15,>15,45-65,hombre,2.375,14.909,false,false
+20230701,01,GAU Santander - Torrelavega,39025,2-10,trabajo_estudio,casa,39,10-15,NA,NA,2.061,20.492,false,false
+20230701,01,GAU Sevilla,GAU Sevilla,0.5-2,no_frecuente,frecuente,29,<10,25-45,hombre,2.938,4.604,false,false
+20230701,02,03118,03118,0.5-2,no_frecuente,no_frecuente,28,>15,0-25,mujer,27.948,46.535,false,false
+20230701,02,08227_AM,FR106,>50,casa,no_frecuente,08,10-15,NA,NA,4.707,9184.091,false,false
+20230701,02,13039,13039,2-10,frecuente,frecuente,28,10-15,45-65,hombre,2.637,6.88,false,false
+20230701,02,15068,15043,2-10,frecuente,casa,15,10-15,NA,NA,5.44,49.268,false,false
+20230701,02,18017,18017,0.5-2,trabajo_estudio,frecuente,18,<10,25-45,mujer,3.016,5.398,false,false
+20230701,02,30008,30008,0.5-2,frecuente,casa,30,10-15,45-65,mujer,42.062,46.235,false,false
+20230701,02,30021,30021,2-10,frecuente,no_frecuente,30,<10,45-65,mujer,3.112,20.661,false,false
+20230701,02,36006,36046,2-10,trabajo_estudio,casa,36,10-15,NA,NA,4.954,18.913,false,false
+20230701,02,36037,GAU Vigo - Pontevedra,10-50,trabajo_estudio,frecuente,36,10-15,45-65,mujer,4.337,47.21,false,false
+20230701,02,41011,41011,2-10,frecuente,frecuente,02,10-15,25-45,hombre,3.985,10.752,false,false
+20230701,02,41082,41026,10-50,frecuente,casa,41,<10,NA,NA,3.583,43.804,false,false
+20230701,02,43078_AM,43044,10-50,casa,no_frecuente,43,10-15,NA,NA,9.105,142.779,false,false
+20230701,02,48910_AM,48026_AM,2-10,frecuente,casa,48,>15,NA,NA,1.105,2.909,false,false
+20230701,02,GAU A Coruña,GAU A Coruña,2-10,no_frecuente,frecuente,27,10-15,NA,NA,9.205,20.212,false,false
+20230701,02,GAU Castellón de la Plana,GAU Castellón de la Plana,2-10,no_frecuente,no_frecuente,45,>15,45-65,hombre,2.383,15.876,false,false
+20230701,02,GAU Donostia/San Sebastián,GAU Donostia/San Sebastián,2-10,trabajo_estudio,casa,20,10-15,65-100,NA,7.472,17.942,false,false
+20230701,02,GAU La Costa del Sol,GAU La Costa del Sol,2-10,casa,frecuente,29,10-15,0-25,mujer,57.419,333.877,false,false
+20230701,02,GAU Tarragona - Reus,GAU Tarragona - Reus,0.5-2,no_frecuente,no_frecuente,39,10-15,0-25,mujer,5.355,8.973,false,false
+20230701,02,GAU Utrera,GAU Utrera,2-10,no_frecuente,frecuente,08,10-15,65-100,NA,2.069,14.031,false,false
+20230701,03,06094_AM,06060_AM,10-50,no_frecuente,casa,06,<10,45-65,NA,1.491,23.58,false,false
+20230701,03,06135_AM,GAU Mérida,2-10,casa,frecuente,06,<10,NA,NA,10.564,83.234,false,false
+20230701,03,07003,07003,2-10,frecuente,frecuente,08,10-15,25-45,hombre,1.75,5.002,false,false
+20230701,03,12106_AM,12126,2-10,frecuente,casa,12,10-15,NA,NA,2.944,9.249,false,false
+20230701,03,14055,14055,0.5-2,no_frecuente,no_frecuente,17,10-15,45-65,mujer,2.1,1.286,false,false
+20230701,03,18017,18017,2-10,frecuente,casa,18,<10,65-100,hombre,5.831,19.587,false,false
+20230701,03,22137_AM,22017_AM,10-50,no_frecuente,casa,22,10-15,NA,NA,2.386,67.496,false,false
+20230701,03,27041_AM,27047_AM,10-50,trabajo_estudio,casa,27,10-15,NA,NA,2.621,57.84,false,false
+20230701,03,43108_AM,43161,2-10,no_frecuente,no_frecuente,20,10-15,45-65,mujer,4.533,27.755,false,false
+20230701,03,48018_AM,48027,10-50,frecuente,casa,48,>15,NA,NA,8.764,100.181,false,false
+20230701,03,GAU Castellón de la Plana,GAU Castellón de la Plana,0.5-2,frecuente,trabajo_estudio,12,10-15,45-65,NA,6.03,10.522,false,false
+20230701,03,GAU Gandía,46127_AM,0.5-2,casa,frecuente,46,10-15,25-45,hombre,3.204,6.184,false,false
+20230701,03,GAU Las Palmas de Gran Canaria,GAU Las Palmas de Gran Canaria,2-10,trabajo_estudio,casa,35,10-15,45-65,hombre,56.174,195.763,false,false
+20230701,03,GAU Madrid,GAU Madrid,10-50,no_frecuente,no_frecuente,11,10-15,45-65,NA,4.087,52.416,false,false
+20230701,03,GAU Madrid,PT11A,10-50,casa,no_frecuente,28,>15,65-100,mujer,6.107,111.164,false,false
+20230701,03,GAU Murcia,GAU Murcia,2-10,frecuente,no_frecuente,30,>15,65-100,mujer,4.505,25.961,false,false
+20230701,03,GAU Pamplona,GAU Pamplona,0.5-2,no_frecuente,no_frecuente,11,10-15,NA,NA,4.365,3.176,false,false
+20230701,03,GAU Valencia,46116,2-10,casa,frecuente,46,10-15,25-45,mujer,4.086,8.731,false,false
+20230701,04,27021_AM,GAU Ferrol,>50,no_frecuente,casa,15,10-15,45-65,hombre,4.61,241.564,false,false
+20230701,04,29090_AM,29080,10-50,casa,frecuente,29,<10,NA,NA,3.139,34.73,false,false
+20230701,04,30022,30022,2-10,frecuente,casa,30,<10,45-65,mujer,2.758,13.943,false,false
+20230701,04,30035,GAU Murcia,10-50,casa,frecuente,30,10-15,65-100,NA,1.731,24.468,false,false
+20230701,04,39001_AM,39080,10-50,trabajo_estudio,casa,39,10-15,NA,NA,2.22,24.995,false,false
+20230701,04,45166_AM,45166_AM,2-10,casa,frecuente,45,10-15,NA,NA,1.375,6.261,false,false
+20230701,04,GAU Alicante - Elche,GAU Alicante - Elche,10-50,frecuente,frecuente,03,<10,45-65,hombre,11.021,139.877,false,false
+20230701,04,GAU Madrid,GAU Madrid,0.5-2,trabajo_estudio,no_frecuente,28,>15,45-65,mujer,7.519,5.897,false,false
+20230701,04,GAU Málaga,29008,10-50,casa,frecuente,29,10-15,0-25,hombre,6.594,68.335,false,false
+20230701,04,GAU Palma de Mallorca,GAU Palma de Mallorca,10-50,no_frecuente,frecuente,08,>15,0-25,mujer,5.268,60.053,false,false
+20230701,04,GAU Santa Cruz de Tenerife - La Laguna,GAU Santa Cruz de Tenerife - La Laguna,2-10,casa,trabajo_estudio,38,<10,25-45,NA,4.656,29.109,false,false
+20230701,04,GAU Utrera,GAU Sevilla,2-10,trabajo_estudio,casa,41,<10,25-45,NA,3.369,15.62,false,false
+20230701,04,GAU Valencia,FR101,2-10,casa,no_frecuente,46,10-15,45-65,mujer,1.525,12.714,false,false
+20230701,05,11006,11006,10-50,frecuente,frecuente,11,<10,25-45,NA,2.372,38.751,false,false
+20230701,05,29015_AM,29015_AM,2-10,casa,trabajo_estudio,29,10-15,0-25,hombre,20.046,81.373,false,false
+20230701,05,36060,15073,10-50,frecuente,casa,15,10-15,25-45,hombre,4.879,88.645,false,false
+20230701,05,39001_AM,39001_AM,0.5-2,no_frecuente,no_frecuente,39,10-15,45-65,NA,2.631,2.635,false,false
+20230701,05,45067_AM,GAU Toledo,10-50,casa,frecuente,45,10-15,NA,NA,7.123,97.822,false,false
+20230701,05,48055_AM,GAU Bilbao,10-50,casa,frecuente,48,10-15,NA,NA,6.761,99.356,false,false
+20230701,05,GAU Bilbao,GAU Donostia/San Sebastián,>50,casa,no_frecuente,48,>15,25-45,hombre,4.232,366.61,false,false
+20230701,05,GAU El Ejido,GAU El Ejido,2-10,no_frecuente,no_frecuente,04,<10,25-45,hombre,4.005,10.287,false,false
+20230701,05,GAU Lleida,22112_AM,10-50,casa,frecuente,25,10-15,65-100,mujer,5.134,105.352,false,false
+20230701,05,GAU Madrid,10131,>50,casa,no_frecuente,28,>15,45-65,hombre,3.241,561.145,false,false
+20230701,05,GAU Madrid,GAU La Costa Blanca,>50,no_frecuente,no_frecuente,37,10-15,45-65,mujer,4.298,1616.757,false,false
+20230701,05,GAU Málaga,GAU Málaga,10-50,frecuente,casa,29,10-15,0-25,hombre,41.888,483.988,false,false
+20230701,05,GAU Palma de Mallorca,GAU Palma de Mallorca,10-50,no_frecuente,no_frecuente,07,10-15,45-65,hombre,10.803,166.683,false,false
+20230701,05,GAU Valle de la Orotava,GAU Santa Cruz de Tenerife - La Laguna,10-50,frecuente,no_frecuente,38,<10,NA,NA,2.891,49.311,false,false
+20230701,06,04066,04066,2-10,frecuente,frecuente,04,<10,45-65,hombre,4.955,29.37,false,false
+20230701,06,06108,06158,2-10,no_frecuente,frecuente,28,10-15,45-65,mujer,6.394,23.499,false,false
+20230701,06,07042,07003,2-10,frecuente,no_frecuente,07,<10,45-65,mujer,1.887,13.252,false,false
+20230701,06,11016,11016,2-10,no_frecuente,no_frecuente,29,10-15,25-45,hombre,1.949,6.614,false,false
+20230701,06,12089,12089,0.5-2,no_frecuente,no_frecuente,50,10-15,25-45,hombre,2.337,3.167,false,false
+20230701,06,21050,21050,10-50,frecuente,frecuente,21,10-15,25-45,NA,3.648,37.24,false,false
+20230701,06,25007_AM,25007_AM,2-10,trabajo_estudio,no_frecuente,25,>15,NA,NA,3.003,17.499,false,false
+20230701,06,36051,36022,2-10,frecuente,no_frecuente,15,10-15,0-25,hombre,8.787,54.959,false,false
+20230701,06,36055,GAU Vigo - Pontevedra,2-10,casa,no_frecuente,36,<10,45-65,hombre,3.783,34.703,false,false
+20230701,06,39038_AM,39020,10-50,no_frecuente,no_frecuente,48,10-15,45-65,mujer,3.733,44.094,false,false
+20230701,06,45135,45053,>50,casa,no_frecuente,45,<10,NA,NA,3.298,166.524,false,false
+20230701,06,46217_AM,46160_AM,10-50,frecuente,frecuente,46,10-15,NA,NA,3.483,52.221,false,false
+20230701,06,48040_AM,GAU Donostia/San Sebastián,>50,trabajo_estudio,no_frecuente,48,>15,NA,NA,3.655,334.847,false,false
+20230701,06,50017_AM,GAU Zaragoza,2-10,frecuente,frecuente,50,10-15,45-65,hombre,1.924,17.155,false,false
+20230701,06,GAU Donostia/San Sebastián,20039,10-50,casa,frecuente,20,>15,25-45,mujer,2.983,41.845,false,false
+20230701,06,GAU Donostia/San Sebastián,GAU Donostia/San Sebastián,0.5-2,no_frecuente,no_frecuente,20,>15,45-65,mujer,9.734,10.506,false,false
+20230701,06,GAU La Costa Blanca,GAU La Costa Blanca,0.5-2,no_frecuente,no_frecuente,13,10-15,NA,NA,2.092,2.286,false,false
+20230701,06,GAU Pamplona,12089,>50,casa,no_frecuente,31,10-15,45-65,hombre,7.28,2331.98,false,false
+20230701,06,GAU Sevilla,21010,>50,casa,no_frecuente,41,<10,25-45,NA,6.578,829.609,false,false
+20230701,06,GAU Sevilla,GAU Badajoz,>50,no_frecuente,no_frecuente,06,<10,NA,NA,4.566,891.844,false,false
+20230701,06,GAU Talavera de la Reina,45121_AM,>50,casa,no_frecuente,45,<10,45-65,mujer,3.602,407.136,false,false
+20230701,06,GAU Valle de la Orotava,GAU Valle de la Orotava,0.5-2,casa,frecuente,38,<10,0-25,hombre,14.534,12.524,false,false
+20230701,07,03059,03059,10-50,trabajo_estudio,casa,03,<10,NA,NA,1.631,18.258,false,false
+20230701,07,03088,03089,10-50,frecuente,casa,03,<10,25-45,NA,1.382,14.893,false,false
+20230701,07,08112,08208_AM,>50,casa,no_frecuente,08,10-15,NA,NA,3.026,204.219,false,false
+20230701,07,11039,11035,10-50,no_frecuente,no_frecuente,41,10-15,25-45,hombre,3.632,113.946,false,false
+20230701,07,13082,13019,10-50,casa,frecuente,13,<10,45-65,NA,5.066,65.906,false,false
+20230701,07,17015,17049_AM,10-50,casa,trabajo_estudio,17,10-15,NA,NA,3.509,47.114,false,false
+20230701,07,18192_AM,29002_AM,10-50,frecuente,casa,29,<10,NA,NA,6.46,67.545,false,false
+20230701,07,20056_AM,20029,2-10,casa,trabajo_estudio,20,10-15,NA,NA,1.424,6.222,false,false
+20230701,07,21042,21044,10-50,frecuente,casa,21,<10,45-65,NA,2.699,28.692,false,false
+20230701,07,23088,23046_AM,10-50,no_frecuente,frecuente,23,<10,65-100,hombre,1.897,46.611,false,false
+20230701,07,25007_AM,25007_AM,0.5-2,casa,frecuente,25,10-15,NA,NA,3.833,3.321,false,false
+20230701,07,28046,45040_AM,>50,casa,no_frecuente,28,10-15,0-25,mujer,15.873,1283.605,false,false
+20230701,07,30022,GAU Murcia,>50,casa,frecuente,30,<10,65-100,NA,2.737,169.38,false,false
+20230701,07,32056_AM,32020_AM,2-10,casa,trabajo_estudio,32,<10,NA,NA,4.279,29.307,false,false
+20230701,07,39079,GAU Lugo,>50,no_frecuente,frecuente,27,10-15,NA,NA,3.923,1324.3,false,false
+20230701,07,45067_AM,45052_AM,2-10,casa,frecuente,45,10-15,NA,NA,2.764,26.382,false,false
+20230701,07,45106,45078_AM,10-50,frecuente,frecuente,45,10-15,NA,NA,2.764,43.088,false,false
+20230701,07,46179,GAU Valencia,10-50,frecuente,frecuente,46,10-15,45-65,mujer,3.559,164.617,false,false
+20230701,07,46184,46045_AM,10-50,casa,frecuente,46,10-15,NA,NA,1.603,37.569,false,false
+20230701,07,GAU Arrecife,GAU Arrecife,0.5-2,frecuente,casa,35,<10,0-25,mujer,35.281,38.21,false,false
+20230701,07,GAU Cuenca,GAU Cuenca,0.5-2,casa,frecuente,16,10-15,65-100,NA,20.642,24.327,false,false
+20230701,07,GAU Córdoba,GAU Barcelona,>50,casa,no_frecuente,14,<10,25-45,hombre,2.686,1919.099,false,false
+20230701,07,GAU Huesca,GAU Huesca,0.5-2,casa,trabajo_estudio,22,>15,NA,NA,101.728,98.757,false,false
+20230701,07,GAU La Bahía de Algeciras,GAU Torrevieja,>50,no_frecuente,no_frecuente,11,10-15,65-100,mujer,4.672,2160.443,false,false
+20230701,07,GAU Madrid,GAU Madrid,0.5-2,frecuente,frecuente,19,<10,0-25,mujer,10.743,10.164,false,false
+20230701,07,GAU Madrid,GAU Madrid,2-10,no_frecuente,frecuente,28,10-15,45-65,mujer,171.342,868.026,false,false
+20230701,07,GAU Santa Cruz de Tenerife - La Laguna,GAU Santa Cruz de Tenerife - La Laguna,2-10,casa,trabajo_estudio,38,10-15,45-65,NA,72.8,373.853,false,false
+20230701,07,GAU Utrera,GAU Utrera,2-10,trabajo_estudio,casa,41,<10,NA,NA,9.288,35.586,false,false
+20230701,07,GAU Valencia,46105,10-50,frecuente,no_frecuente,46,<10,25-45,mujer,2.068,73.084,false,false
+20230701,07,GAU Valladolid,GAU Valladolid,0.5-2,no_frecuente,no_frecuente,29,<10,65-100,mujer,4.024,2.459,false,false
+20230701,07,GAU Vigo - Pontevedra,15046,>50,casa,no_frecuente,36,10-15,NA,NA,8.554,958.886,false,false
+20230701,07,PT170,GAU Madrid,2-10,no_frecuente,casa,28,>15,25-45,hombre,9.124,62.364,false,false
+20230701,08,03093,03019,2-10,casa,no_frecuente,03,10-15,45-65,mujer,5.18,26.033,false,false
+20230701,08,03097_AM,GAU Denia - Jávea,10-50,casa,frecuente,03,<10,NA,NA,12.226,197.9,false,false
+20230701,08,03138,03138,0.5-2,no_frecuente,no_frecuente,03,10-15,NA,NA,4.169,4.582,false,false
+20230701,08,06039_AM,06153,2-10,casa,trabajo_estudio,06,<10,NA,NA,8.542,67.549,false,false
+20230701,08,06055_AM,06158,10-50,casa,no_frecuente,06,<10,NA,NA,7.728,294.377,false,false
+20230701,08,08037_AM,08298,2-10,casa,frecuente,08,>15,0-25,NA,23.942,78.846,false,false
+20230701,08,08127_AM,08127_AM,0.5-2,no_frecuente,no_frecuente,08,10-15,45-65,hombre,4.436,7.158,false,false
+20230701,08,08208_AM,43037,10-50,casa,no_frecuente,08,>15,45-65,NA,2.088,85.247,false,false
+20230701,08,12104,12104,2-10,casa,trabajo_estudio,12,10-15,NA,NA,25.72,69.146,false,false
+20230701,08,15072,15011,2-10,trabajo_estudio,casa,15,10-15,45-65,mujer,6.161,43.003,false,false
+20230701,08,17211_AM,17901_AM,2-10,casa,frecuente,17,10-15,NA,NA,3.844,27.337,false,false
+20230701,08,21040_AM,21074_AM,2-10,casa,frecuente,21,<10,NA,NA,8.8,30.365,false,false
+20230701,08,29012,GAU Málaga,10-50,casa,frecuente,29,<10,45-65,NA,14.701,303.539,false,false
+20230701,08,30008,30008,2-10,frecuente,trabajo_estudio,30,10-15,25-45,hombre,7.186,33.256,false,false
+20230701,08,36061,15011,10-50,casa,frecuente,36,10-15,65-100,NA,4.319,46.931,false,false
+20230701,08,42134,42025_AM,2-10,casa,trabajo_estudio,42,10-15,NA,NA,3.713,28.009,false,false
+20230701,08,44025,44155_AM,10-50,no_frecuente,no_frecuente,50,10-15,0-25,hombre,9.984,250.201,false,false
+20230701,08,45102,GAU Toledo,2-10,frecuente,trabajo_estudio,45,10-15,45-65,hombre,2.129,18.772,false,false
+20230701,08,46213,46213,2-10,casa,frecuente,46,10-15,65-100,mujer,26.467,82.041,false,false
+20230701,08,GAU Alicante - Elche,03015,10-50,casa,no_frecuente,03,<10,45-65,hombre,11.086,213.873,false,false
+20230701,08,GAU Badajoz,06901,2-10,no_frecuente,casa,06,<10,NA,NA,3.057,6.674,false,false
+20230701,08,GAU Barcelona,08284_AM,10-50,frecuente,frecuente,08,10-15,0-25,NA,3.743,43.558,false,false
+20230701,08,GAU Barcelona,18164_AM,>50,casa,frecuente,08,>15,65-100,mujer,11.414,6528.888,false,false
+20230701,08,GAU Bilbao,48090,10-50,casa,trabajo_estudio,48,>15,45-65,NA,2.908,59.972,false,false
+20230701,08,GAU Central de Asturias,24196_AM,>50,casa,no_frecuente,33,10-15,25-45,NA,3.939,331.877,false,false
+20230701,08,GAU Central de Asturias,GAU Central de Asturias,10-50,frecuente,trabajo_estudio,33,10-15,0-25,mujer,4.581,48.728,false,false
+20230701,08,GAU Granada,GAU Granada,10-50,frecuente,frecuente,18,10-15,0-25,mujer,6.812,77.136,false,false
+20230701,08,GAU Las Palmas de Gran Canaria,GAU Las Palmas de Gran Canaria,0.5-2,no_frecuente,no_frecuente,23,<10,NA,NA,1.658,3.185,false,false
+20230701,08,GAU Lleida,GAU Lleida,0.5-2,trabajo_estudio,casa,25,10-15,0-25,mujer,6.794,8.554,false,false
+20230701,08,GAU Lugo,27057,10-50,casa,no_frecuente,27,10-15,45-65,hombre,3.523,102.866,false,false
+20230701,08,GAU Sevilla,29028_AM,>50,trabajo_estudio,no_frecuente,41,10-15,45-65,hombre,2.734,250.078,false,false
+20230701,08,GAU Sevilla,41049,2-10,casa,no_frecuente,41,<10,45-65,NA,2.412,12.246,false,false
+20230701,08,GAU Talavera de la Reina,GAU Talavera de la Reina,2-10,frecuente,frecuente,45,<10,65-100,hombre,7.515,17.646,false,false
+20230701,08,GAU Torrevieja,GAU Torrevieja,2-10,no_frecuente,frecuente,03,<10,25-45,NA,2.126,6.511,false,false
+20230701,08,GAU Valencia,46070,2-10,trabajo_estudio,casa,46,>15,0-25,mujer,8.3,80.597,false,false
+20230701,08,GAU Valencia,46212_AM,2-10,casa,frecuente,46,10-15,65-100,NA,3.172,22.124,false,false
+20230701,08,GAU Vélez-Málaga,29082_AM,10-50,casa,frecuente,29,10-15,25-45,hombre,2.93,39.098,false,false
+20230701,08,GAU Zamora,GAU Zamora,0.5-2,frecuente,frecuente,49,10-15,45-65,NA,9.034,11.902,false,false
+20230701,08,GAU Zaragoza,GAU Tarragona - Reus,>50,casa,no_frecuente,50,>15,25-45,hombre,14.496,2784.21,false,false
+20230701,09,03055,03118,10-50,frecuente,frecuente,03,10-15,0-25,hombre,3.27,33.866,false,false
+20230701,09,03902,30035,2-10,trabajo_estudio,no_frecuente,03,<10,65-100,mujer,5.217,41.7,false,false
+20230701,09,06120,GAU Madrid,>50,casa,no_frecuente,06,<10,NA,NA,6.409,1633.384,false,false
+20230701,09,08119,08286_AM,10-50,casa,frecuente,08,10-15,NA,NA,2.197,28.008,false,false
+20230701,09,08170_AM,08170_AM,2-10,frecuente,casa,08,>15,NA,NA,4.614,19.614,false,false
+20230701,09,08278_AM,08215,10-50,casa,trabajo_estudio,08,>15,NA,NA,3.509,59.065,false,false
+20230701,09,09219,GAU Pamplona,>50,casa,no_frecuente,09,10-15,65-100,mujer,6.863,736.44,false,false
+20230701,09,12004,45199,>50,no_frecuente,no_frecuente,28,10-15,25-45,NA,4.679,1686.024,false,false
+20230701,09,18137_AM,23002,10-50,frecuente,casa,23,<10,NA,NA,2.208,35.212,false,false
+20230701,09,18149_AM,18149_AM,10-50,no_frecuente,no_frecuente,18,10-15,0-25,mujer,6.083,146.571,false,false
+20230701,09,18150,GAU Granada,10-50,frecuente,casa,18,10-15,NA,NA,5.045,117.917,false,false
+20230701,09,29042,29042,2-10,casa,trabajo_estudio,29,<10,NA,NA,108.961,369.767,false,false
+20230701,09,31153_AM,31153_AM,2-10,trabajo_estudio,casa,31,10-15,NA,NA,21.608,92.161,false,false
+20230701,09,32032,32067_AM,2-10,trabajo_estudio,casa,32,10-15,NA,NA,4.609,42.575,false,false
+20230701,09,32081_AM,GAU Ourense,2-10,frecuente,casa,32,10-15,25-45,NA,5.577,45.717,false,false
+20230701,09,33051_AM,33051_AM,2-10,frecuente,trabajo_estudio,33,10-15,45-65,mujer,3.841,20.813,false,false
+20230701,09,34069_AM,GAU Palencia,10-50,no_frecuente,no_frecuente,47,10-15,0-25,NA,4.597,65.979,false,false
+20230701,09,35009,35009,2-10,frecuente,frecuente,35,10-15,25-45,mujer,8.657,59.831,false,false
+20230701,09,35018,35018,2-10,frecuente,frecuente,35,<10,25-45,hombre,3.134,10.89,false,false
+20230701,09,35024,GAU Arrecife,2-10,no_frecuente,casa,35,<10,25-45,hombre,3.134,15.524,false,false
+20230701,09,36051,36027,2-10,frecuente,frecuente,36,10-15,45-65,NA,2.185,11.333,false,false
+20230701,09,39023,48022_AM,10-50,no_frecuente,no_frecuente,39,10-15,NA,NA,1.594,33.401,false,false
+20230701,09,39025,39012,10-50,trabajo_estudio,frecuente,39,10-15,NA,NA,2.478,25.063,false,false
+20230701,09,39082_AM,39082_AM,2-10,frecuente,casa,39,10-15,NA,NA,8.26,41.078,false,false
+20230701,09,43108_AM,43161,2-10,frecuente,casa,43,10-15,65-100,NA,12.416,74.472,false,false
+20230701,09,43140,43163,2-10,no_frecuente,frecuente,08,>15,65-100,mujer,5.237,23.454,false,false
+20230701,09,43904,43903,2-10,frecuente,no_frecuente,08,<10,0-25,hombre,6.21,27.739,false,false
+20230701,09,45081,45201,2-10,casa,trabajo_estudio,45,10-15,45-65,NA,5.025,26.986,false,false
+20230701,09,45192_AM,45101_AM,10-50,no_frecuente,no_frecuente,28,10-15,45-65,hombre,2.716,48.541,false,false
+20230701,09,46238,GAU Denia - Jávea,>50,frecuente,no_frecuente,46,10-15,NA,NA,2.673,139.197,false,false
+20230701,09,46257,46145,10-50,frecuente,trabajo_estudio,46,10-15,NA,NA,3.73,44.319,false,false
+20230701,09,47214_AM,34232_AM,10-50,frecuente,trabajo_estudio,34,10-15,45-65,hombre,2.905,65.79,false,false
+20230701,09,50073_AM,50181_AM,10-50,no_frecuente,casa,50,>15,NA,NA,3.167,36.207,false,false
+20230701,09,GAU Alicante - Elche,GAU Alicante - Elche,0.5-2,frecuente,no_frecuente,46,10-15,25-45,hombre,3.866,7.709,false,false
+20230701,09,GAU Bilbao,01028_AM,>50,casa,no_frecuente,48,10-15,0-25,mujer,5.515,454.394,false,false
+20230701,09,GAU Cartagena,GAU Cartagena,0.5-2,frecuente,frecuente,30,<10,25-45,mujer,15.141,24.826,false,false
+20230701,09,GAU Córdoba,14067,10-50,casa,no_frecuente,14,10-15,25-45,hombre,2.731,69.883,false,false
+20230701,09,GAU Granada,18122_AM,10-50,no_frecuente,frecuente,18,<10,45-65,NA,2.485,87.751,false,false
+20230701,09,GAU León,GAU León,0.5-2,casa,frecuente,24,10-15,45-65,hombre,235.853,289.927,false,false
+20230701,09,GAU Lleida,25038_AM,10-50,casa,frecuente,25,10-15,45-65,NA,2.317,39.161,false,false
+20230701,09,GAU Madrid,28150,10-50,casa,no_frecuente,28,10-15,65-100,NA,2.632,83.849,false,false
+20230701,09,GAU Murcia,GAU Murcia,0.5-2,frecuente,trabajo_estudio,30,10-15,45-65,mujer,88.656,108.999,false,false
+20230701,09,GAU Ourense,32063_AM,10-50,casa,no_frecuente,32,>15,45-65,mujer,3.84,137.605,false,false
+20230701,09,GAU Ourense,GAU Ourense,2-10,trabajo_estudio,frecuente,32,>15,25-45,NA,3.535,7.303,false,false
+20230701,09,GAU Talavera de la Reina,10148,>50,casa,no_frecuente,45,<10,45-65,NA,3.767,405.521,false,false
+20230701,09,GAU Valladolid,47173_AM,2-10,frecuente,frecuente,47,10-15,45-65,hombre,1.595,15.854,false,false
+20230701,09,PT170,GAU Badajoz,10-50,no_frecuente,no_frecuente,06,<10,NA,NA,1.0,11.649,false,false
+20230701,10,03123_AM,03123_AM,2-10,trabajo_estudio,casa,03,<10,45-65,NA,11.172,68.767,false,false
+20230701,10,06005_AM,GAU Badajoz,10-50,frecuente,casa,06,<10,NA,NA,4.509,129.943,false,false
+20230701,10,07032,07037,2-10,no_frecuente,frecuente,07,10-15,45-65,mujer,3.626,34.324,false,false
+20230701,10,15020,15053,2-10,no_frecuente,no_frecuente,20,10-15,NA,NA,1.933,6.448,false,false
+20230701,10,18017,18119_AM,10-50,casa,no_frecuente,18,<10,45-65,hombre,2.439,40.201,false,false
+20230701,10,18173,18173,0.5-2,frecuente,trabajo_estudio,18,<10,25-45,NA,3.552,5.992,false,false
+20230701,10,20005_AM,20019,2-10,casa,no_frecuente,20,10-15,NA,NA,5.6,55.401,false,false
+20230701,10,20013,48032,10-50,casa,no_frecuente,20,>15,NA,NA,8.038,86.965,false,false
+20230701,10,20076,20025_AM,2-10,casa,trabajo_estudio,20,>15,25-45,NA,7.215,57.649,false,false
+20230701,10,23002,14004_AM,2-10,trabajo_estudio,casa,14,<10,NA,NA,4.255,34.578,false,false
+20230701,10,24212_AM,GAU León,10-50,frecuente,casa,24,10-15,65-100,NA,5.692,154.789,false,false
+20230701,10,27030,27030,2-10,frecuente,casa,27,10-15,NA,NA,19.855,106.156,false,false
+20230701,10,28050,28140_AM,2-10,casa,no_frecuente,28,10-15,NA,NA,11.438,36.281,false,false
+20230701,10,28150,GAU Toledo,10-50,frecuente,frecuente,45,<10,NA,NA,3.545,141.859,false,false
+20230701,10,29041,GAU La Costa del Sol,2-10,frecuente,no_frecuente,10,10-15,65-100,hombre,2.506,16.338,false,false
+20230701,10,31076_AM,GAU Pamplona,2-10,frecuente,casa,31,>15,65-100,mujer,7.889,52.719,false,false
+20230701,10,33026_AM,33026_AM,0.5-2,casa,trabajo_estudio,33,10-15,65-100,NA,4.845,6.826,false,false
+20230701,10,35034,35018,10-50,frecuente,trabajo_estudio,35,10-15,NA,NA,3.491,73.659,false,false
+20230701,10,36015,36032,2-10,casa,frecuente,36,10-15,NA,NA,13.22,92.822,false,false
+20230701,10,39001_AM,39091_AM,10-50,frecuente,frecuente,39,10-15,NA,NA,2.232,23.819,false,false
+20230701,10,39006_AM,39047,2-10,no_frecuente,no_frecuente,47,>15,25-45,mujer,3.588,10.67,false,false
+20230701,10,39026_AM,39056_AM,2-10,frecuente,casa,39,10-15,NA,NA,2.333,23.243,false,false
+20230701,10,43042_AM,GAU Tarragona - Reus,2-10,trabajo_estudio,casa,43,10-15,45-65,hombre,2.29,6.922,false,false
+20230701,10,45037_AM,GAU Madrid,>50,casa,frecuente,45,<10,NA,NA,2.7,191.723,false,false
+20230701,10,45047_AM,GAU Madrid,10-50,casa,no_frecuente,45,<10,NA,NA,71.751,2076.631,false,false
+20230701,10,46070,GAU Valencia,2-10,no_frecuente,frecuente,46,>15,65-100,NA,2.495,10.194,false,false
+20230701,10,46202,46214_AM,2-10,casa,frecuente,46,10-15,25-45,mujer,3.41,16.107,false,false
+20230701,10,46229_AM,46111,10-50,no_frecuente,casa,46,10-15,NA,NA,2.627,84.214,false,false
+20230701,10,GAU Barcelona,43095_AM,10-50,frecuente,casa,43,10-15,NA,NA,6.088,265.001,false,false
+20230701,10,GAU Barcelona,GAU Barcelona,2-10,frecuente,no_frecuente,08,>15,65-100,hombre,184.06,937.707,false,false
+20230701,10,GAU Burgos,GAU Burgos,0.5-2,no_frecuente,no_frecuente,09,>15,45-65,NA,2.52,4.6,false,false
+20230701,10,GAU Castellón de la Plana,GAU Castellón de la Plana,10-50,casa,frecuente,12,>15,65-100,NA,17.526,212.329,false,false
+20230701,10,GAU Central de Asturias,33019_AM,10-50,casa,no_frecuente,33,>15,NA,NA,6.598,307.575,false,false
+20230701,10,GAU Granada,GAU Granada,2-10,frecuente,casa,18,<10,65-100,NA,43.039,218.42,false,false
+20230701,10,GAU La Bahía de Cádiz,GAU La Bahía de Cádiz,10-50,frecuente,trabajo_estudio,11,<10,65-100,NA,4.349,68.185,false,false
+20230701,10,GAU Madrid,28023,10-50,no_frecuente,casa,28,10-15,45-65,NA,6.59,151.021,false,false
+20230701,10,GAU Madrid,44068_AM,>50,no_frecuente,no_frecuente,28,10-15,65-100,NA,2.079,657.46,false,false
+20230701,10,GAU Palencia,GAU Palencia,0.5-2,frecuente,frecuente,24,10-15,25-45,hombre,10.875,18.582,false,false
+20230701,10,GAU Ponferrada,32072,10-50,no_frecuente,casa,32,10-15,NA,NA,8.513,387.132,false,false
+20230701,10,GAU Salamanca,PT16E,>50,frecuente,no_frecuente,37,10-15,25-45,mujer,4.183,364.219,false,false
+20230701,10,GAU Soria,GAU Soria,0.5-2,frecuente,no_frecuente,26,10-15,45-65,NA,2.528,3.546,false,false
+20230701,10,GAU Tarragona - Reus,GAU Tarragona - Reus,0.5-2,casa,trabajo_estudio,43,10-15,45-65,mujer,184.986,208.899,false,false
+20230701,10,GAU Utrera,41024,10-50,casa,no_frecuente,41,<10,25-45,mujer,2.341,32.321,false,false
+20230701,10,GAU Zaragoza,GAU Zaragoza,0.5-2,frecuente,frecuente,08,>15,45-65,hombre,2.513,1.779,false,false
+20230701,11,03019,03019,2-10,frecuente,casa,03,<10,NA,NA,7.509,26.724,false,true
+20230701,11,03046,GAU La Costa Blanca,10-50,no_frecuente,no_frecuente,03,<10,25-45,hombre,4.226,66.355,false,false
+20230701,11,03071,03095,2-10,no_frecuente,no_frecuente,46,10-15,45-65,hombre,2.863,21.934,false,false
+20230701,11,05047,05047,2-10,frecuente,frecuente,10,<10,NA,NA,2.449,21.527,false,false
+20230701,11,06125_AM,06023,10-50,trabajo_estudio,casa,06,<10,NA,NA,4.912,109.667,false,false
+20230701,11,06143,06095,2-10,casa,frecuente,06,<10,NA,NA,2.883,20.842,false,false
+20230701,11,07062,07014,10-50,frecuente,frecuente,07,10-15,NA,NA,4.633,55.067,false,false
+20230701,11,08100,08298,2-10,frecuente,frecuente,08,10-15,NA,NA,8.957,37.308,false,false
+20230701,11,10121,06044_AM,10-50,casa,frecuente,10,10-15,NA,NA,3.457,77.628,false,false
+20230701,11,11011_AM,GAU La Bahía de Cádiz,>50,no_frecuente,frecuente,11,10-15,45-65,mujer,5.575,383.968,false,false
+20230701,11,12027,12004,10-50,trabajo_estudio,no_frecuente,12,10-15,25-45,hombre,15.94,347.301,false,false
+20230701,11,13005,13082,10-50,no_frecuente,frecuente,30,<10,0-25,mujer,7.014,131.077,false,false
+20230701,11,15093,15077,10-50,frecuente,no_frecuente,15,10-15,45-65,hombre,3.561,68.041,false,false
+20230701,11,17152,GAU Girona,10-50,no_frecuente,casa,17,>15,65-100,mujer,4.285,179.383,false,false
+20230701,11,20065_AM,20013,10-50,casa,trabajo_estudio,20,10-15,NA,NA,8.3,146.24,false,false
+20230701,11,21005,21005,0.5-2,no_frecuente,no_frecuente,21,<10,0-25,NA,18.529,22.669,false,false
+20230701,11,21044,21044,2-10,frecuente,trabajo_estudio,21,<10,25-45,NA,10.42,65.08,false,false
+20230701,11,23025,23094_AM,10-50,casa,frecuente,23,<10,NA,NA,2.821,95.356,false,false
+20230701,11,25040,22907_AM,>50,casa,no_frecuente,25,10-15,0-25,mujer,11.943,1028.05,false,false
+20230701,11,29008,GAU Málaga,2-10,no_frecuente,casa,29,<10,NA,NA,8.778,76.868,false,false
+20230701,11,34083_AM,34083_AM,10-50,trabajo_estudio,frecuente,09,10-15,45-65,hombre,2.931,30.641,false,false
+20230701,11,38022,38022,2-10,casa,frecuente,38,10-15,NA,NA,76.665,211.025,false,false
+20230701,11,39030_AM,GAU Bilbao,10-50,trabajo_estudio,casa,48,10-15,25-45,mujer,4.346,147.547,false,false
+20230701,11,41053,GAU Sanlúcar de Barrameda,10-50,no_frecuente,casa,11,<10,25-45,mujer,4.415,103.805,false,false
+20230701,11,41098,41094,2-10,casa,frecuente,41,<10,NA,NA,4.959,17.017,false,false
+20230701,11,44068_AM,44246_AM,2-10,no_frecuente,no_frecuente,31,10-15,NA,NA,8.047,70.012,false,false
+20230701,11,45037_AM,45137_AM,2-10,trabajo_estudio,casa,45,<10,NA,NA,2.108,9.653,false,false
+20230701,11,45176,45081,2-10,frecuente,no_frecuente,45,10-15,45-65,mujer,2.471,13.114,false,false
+20230701,11,46120_AM,12140_AM,10-50,casa,no_frecuente,46,10-15,NA,NA,2.025,55.721,false,false
+20230701,11,48027,GAU Vitoria/Gasteiz,10-50,no_frecuente,no_frecuente,48,10-15,25-45,NA,4.04,142.97,false,false
+20230701,11,FRC23,07046,10-50,no_frecuente,casa,07,10-15,45-65,mujer,1.0,12.745,false,false
+20230701,11,GAU Alicante - Elche,GAU Alicante - Elche,2-10,frecuente,trabajo_estudio,03,10-15,45-65,mujer,136.425,631.597,false,false
+20230701,11,GAU Barcelona,08208_AM,2-10,frecuente,trabajo_estudio,08,10-15,45-65,NA,9.57,66.989,false,false
+20230701,11,GAU Barcelona,GAU Barcelona,0.5-2,casa,frecuente,08,10-15,25-45,NA,11.506,13.452,true,false
+20230701,11,GAU Central de Asturias,33012,>50,casa,no_frecuente,33,10-15,0-25,NA,5.876,354.58,false,false
+20230701,11,GAU Central de Asturias,GAU Central de Asturias,0.5-2,frecuente,frecuente,47,10-15,25-45,mujer,2.835,2.283,false,false
+20230701,11,GAU Córdoba,GAU Córdoba,2-10,no_frecuente,no_frecuente,29,10-15,25-45,hombre,8.246,56.303,false,false
+20230701,11,GAU Elda - Petrer,GAU Valencia,>50,trabajo_estudio,no_frecuente,03,10-15,NA,NA,2.323,269.339,false,false
+20230701,11,GAU Las Palmas de Gran Canaria,GAU Las Palmas de Gran Canaria,10-50,no_frecuente,frecuente,35,10-15,0-25,mujer,23.477,262.908,false,false
+20230701,11,GAU Madrid,28099_AM,>50,frecuente,no_frecuente,28,10-15,25-45,NA,3.092,192.446,false,false
+20230701,11,GAU Madrid,45157,10-50,casa,no_frecuente,28,10-15,0-25,mujer,23.196,840.098,false,false
+20230701,11,GAU Murcia,GAU Cartagena,10-50,no_frecuente,frecuente,30,10-15,0-25,hombre,9.555,363.44,false,false
+20230701,11,GAU Toledo,GAU Toledo,2-10,frecuente,frecuente,13,<10,NA,NA,2.067,18.681,false,false
+20230701,11,GAU Valle de la Orotava,38051,2-10,frecuente,frecuente,38,<10,0-25,hombre,11.309,91.641,false,false
+20230701,11,GAU Zaragoza,GAU Zaragoza,2-10,no_frecuente,trabajo_estudio,50,>15,65-100,mujer,5.052,43.675,false,false
+20230701,12,06103,06058_AM,2-10,casa,trabajo_estudio,06,10-15,NA,NA,4.57,31.494,false,false
+20230701,12,07062,07062,0.5-2,no_frecuente,no_frecuente,07,10-15,NA,NA,6.404,8.867,false,false
+20230701,12,08016_AM,08016_AM,0.5-2,no_frecuente,frecuente,43,10-15,25-45,NA,2.331,4.005,false,false
+20230701,12,08182,GAU Barcelona,>50,trabajo_estudio,no_frecuente,08,>15,NA,NA,2.864,152.94,false,false
+20230701,12,11034,29084,10-50,no_frecuente,no_frecuente,14,10-15,25-45,mujer,5.278,67.535,false,false
+20230701,12,13047,13047,0.5-2,casa,frecuente,13,<10,45-65,hombre,28.477,34.06,false,false
+20230701,12,15070_AM,27025,10-50,casa,no_frecuente,15,10-15,25-45,NA,5.5,228.029,false,false
+20230701,12,17016_AM,17178_AM,2-10,frecuente,no_frecuente,17,10-15,25-45,NA,3.384,28.883,false,false
+20230701,12,17049_AM,17049_AM,2-10,frecuente,casa,17,10-15,0-25,mujer,19.25,54.2,false,false
+20230701,12,17178_AM,17178_AM,2-10,trabajo_estudio,no_frecuente,17,10-15,25-45,NA,1.812,11.491,false,false
+20230701,12,18162_AM,18093,2-10,casa,frecuente,18,<10,NA,NA,24.927,137.903,false,false
+20230701,12,23053,GAU Roquetas de Mar,>50,trabajo_estudio,no_frecuente,23,<10,NA,NA,5.0,677.681,false,false
+20230701,12,28068,28901_AM,10-50,casa,no_frecuente,28,10-15,0-25,NA,6.078,301.528,false,false
+20230701,12,29082_AM,GAU Vélez-Málaga,2-10,no_frecuente,frecuente,29,10-15,45-65,hombre,2.153,11.132,false,false
+20230701,12,29090_AM,29080,10-50,no_frecuente,no_frecuente,29,10-15,45-65,mujer,2.852,32.405,false,false
+20230701,12,30019,30017,10-50,trabajo_estudio,no_frecuente,30,<10,25-45,hombre,3.365,113.841,false,false
+20230701,12,38012,38005,2-10,frecuente,frecuente,38,<10,45-65,NA,4.03,35.346,false,false
+20230701,12,43092,43038_AM,10-50,frecuente,frecuente,43,10-15,0-25,hombre,4.182,51.44,false,false
+20230701,12,43094_AM,43094_AM,2-10,no_frecuente,casa,43,10-15,NA,NA,5.764,35.193,false,false
+20230701,12,45087,45053,2-10,trabajo_estudio,frecuente,45,<10,NA,NA,2.665,17.7,false,false
+20230701,12,45121_AM,45121_AM,0.5-2,trabajo_estudio,frecuente,45,<10,NA,NA,3.102,2.096,false,false
+20230701,12,45205,GAU Madrid,10-50,no_frecuente,no_frecuente,28,10-15,25-45,hombre,3.816,93.97,false,false
+20230701,12,46116,46229_AM,10-50,casa,no_frecuente,46,>15,65-100,NA,2.495,55.335,false,false
+20230701,12,46136,46111,2-10,casa,no_frecuente,46,10-15,NA,NA,3.882,31.288,false,false
+20230701,12,46136,GAU Valencia,10-50,no_frecuente,frecuente,46,10-15,45-65,hombre,5.115,135.974,false,false
+20230701,12,47085,47004_AM,10-50,trabajo_estudio,frecuente,47,10-15,NA,NA,10.872,130.447,false,false
+20230701,12,GAU Alicante - Elche,GAU Alicante - Elche,0.5-2,no_frecuente,frecuente,03,10-15,NA,NA,42.993,65.29,false,false
+20230701,12,GAU Almería,GAU Almería,2-10,no_frecuente,trabajo_estudio,04,10-15,45-65,mujer,4.016,17.937,false,false
+20230701,12,GAU Barcelona,17016_AM,>50,no_frecuente,casa,17,>15,NA,NA,2.455,284.349,false,false
+20230701,12,GAU Gran Canaria Sur,GAU Las Palmas de Gran Canaria,10-50,no_frecuente,frecuente,35,<10,45-65,hombre,3.438,121.508,false,false
+20230701,12,GAU La Bahía de Cádiz,GAU La Bahía de Cádiz,0.5-2,no_frecuente,no_frecuente,23,10-15,NA,NA,1.941,1.273,false,false
+20230701,12,GAU Madrid,19086_AM,>50,no_frecuente,no_frecuente,28,>15,25-45,mujer,5.676,638.399,false,false
+20230701,12,GAU Murcia,30021,10-50,frecuente,no_frecuente,30,10-15,65-100,mujer,3.339,35.426,false,false
+20230701,12,GAU Orihuela,03024,2-10,no_frecuente,casa,03,<10,NA,NA,25.396,155.326,false,false
+20230701,12,GAU Puertollano,13001_AM,10-50,frecuente,casa,13,10-15,NA,NA,6.742,106.476,false,false
+20230701,12,GAU Salamanca,37376_AM,>50,casa,no_frecuente,37,10-15,25-45,NA,3.164,194.318,false,false
+20230701,12,GAU Segovia,GAU Madrid,>50,trabajo_estudio,no_frecuente,40,10-15,25-45,NA,3.737,251.277,false,false
+20230701,12,GAU Soria,42025_AM,10-50,casa,frecuente,42,>15,45-65,mujer,3.165,108.588,false,false
+20230701,12,GAU Torrevieja,GAU Torrevieja,2-10,frecuente,casa,03,<10,0-25,hombre,3.809,13.448,false,true
+20230701,12,GAU Valencia,GAU Palma de Mallorca,>50,no_frecuente,no_frecuente,29,10-15,45-65,mujer,3.4,858.776,false,false
+20230701,12,GAU Vigo - Pontevedra,GAU Vigo - Pontevedra,0.5-2,frecuente,trabajo_estudio,36,10-15,0-25,mujer,10.364,13.008,false,true
+20230701,13,01002,01002,0.5-2,trabajo_estudio,casa,01,10-15,65-100,mujer,10.78,8.292,false,false
+20230701,13,04047_AM,GAU Almería,2-10,trabajo_estudio,casa,04,<10,NA,NA,7.276,35.898,false,false
+20230701,13,07033,07022,2-10,frecuente,trabajo_estudio,07,10-15,25-45,mujer,6.781,46.616,false,false
+20230701,13,08149_AM,08034_AM,10-50,casa,no_frecuente,08,10-15,NA,NA,3.545,103.717,false,false
+20230701,13,12104,12012_AM,0.5-2,frecuente,casa,12,10-15,NA,NA,21.463,37.489,false,false
+20230701,13,13044_AM,GAU Ciudad Real,10-50,casa,no_frecuente,13,<10,NA,NA,8.459,298.303,false,false
+20230701,13,14038,14038,0.5-2,trabajo_estudio,casa,14,<10,65-100,hombre,22.491,28.146,false,false
+20230701,13,14055,14004_AM,2-10,casa,frecuente,14,<10,65-100,NA,6.972,65.915,false,false
+20230701,13,14070_AM,14070_AM,2-10,casa,trabajo_estudio,14,<10,NA,NA,2.9,14.513,false,false
+20230701,13,15023_AM,15023_AM,0.5-2,casa,no_frecuente,15,10-15,NA,NA,6.525,4.583,false,false
+20230701,13,15072,15011,10-50,frecuente,frecuente,15,10-15,25-45,NA,4.106,42.514,false,false
+20230701,13,17147,17036_AM,2-10,no_frecuente,no_frecuente,08,>15,0-25,hombre,7.675,36.232,false,false
+20230701,13,20039,20079,2-10,no_frecuente,no_frecuente,20,>15,NA,NA,2.417,13.215,false,false
+20230701,13,23010,23010,0.5-2,frecuente,frecuente,23,10-15,65-100,NA,1.827,2.318,false,false
+20230701,13,23096,23010,2-10,no_frecuente,casa,23,<10,NA,NA,3.262,24.355,false,false
+20230701,13,25240_AM,25048_AM,2-10,trabajo_estudio,casa,25,10-15,NA,NA,3.795,20.271,false,false
+20230701,13,28154,GAU Madrid,2-10,frecuente,casa,28,10-15,25-45,hombre,7.878,42.967,false,false
+20230701,13,30035,30035,0.5-2,frecuente,no_frecuente,30,<10,NA,NA,6.449,5.364,false,false
+20230701,13,31038_AM,31029_AM,10-50,frecuente,casa,31,10-15,NA,NA,3.159,150.9,false,false
+20230701,13,32043,GAU Ourense,10-50,frecuente,trabajo_estudio,32,10-15,45-65,NA,3.133,45.951,false,false
+20230701,13,33018,33041,0.5-2,trabajo_estudio,casa,33,10-15,NA,NA,5.632,3.109,false,false
+20230701,13,33049,33045,10-50,no_frecuente,no_frecuente,28,>15,45-65,mujer,4.392,65.692,false,false
+20230701,13,35032,GAU Las Palmas de Gran Canaria,10-50,casa,frecuente,35,10-15,0-25,hombre,10.172,145.058,false,false
+20230701,13,36043,36043,2-10,no_frecuente,frecuente,36,10-15,NA,NA,7.731,25.401,false,false
+20230701,13,39030_AM,39020,2-10,casa,frecuente,39,10-15,NA,NA,15.557,117.49,false,false
+20230701,13,41063,GAU Utrera,2-10,no_frecuente,frecuente,41,10-15,45-65,NA,2.132,10.657,false,false
+20230701,13,43038_AM,43901,10-50,no_frecuente,no_frecuente,50,>15,45-65,hombre,2.718,133.375,false,false
+20230701,13,43131,43131,2-10,no_frecuente,no_frecuente,08,10-15,NA,NA,3.218,7.909,false,false
+20230701,13,43155,GAU Tarragona - Reus,>50,frecuente,no_frecuente,43,10-15,25-45,NA,3.99,264.986,false,false
+20230701,13,43163,43037,0.5-2,casa,trabajo_estudio,43,10-15,25-45,hombre,2.068,2.368,false,false
+20230701,13,44051_AM,44013,10-50,trabajo_estudio,casa,44,10-15,25-45,NA,4.2,50.319,false,false
+20230701,13,44059_AM,12129_AM,10-50,casa,frecuente,44,10-15,NA,NA,6.375,96.494,false,false
+20230701,13,45153_AM,45109_AM,10-50,no_frecuente,frecuente,45,10-15,NA,NA,5.5,94.44,false,false
+20230701,13,46134,46235,10-50,no_frecuente,no_frecuente,46,>15,65-100,hombre,2.532,110.028,false,false
+20230701,13,46145,46217_AM,2-10,casa,no_frecuente,46,10-15,45-65,mujer,11.089,47.19,false,false
+20230701,13,46213,46213,2-10,frecuente,frecuente,28,10-15,0-25,mujer,10.463,31.509,false,false
+20230701,13,49021,49187_AM,10-50,casa,no_frecuente,49,10-15,25-45,NA,9.309,127.909,false,false
+20230701,13,FR105,GAU Madrid,10-50,no_frecuente,no_frecuente,28,10-15,25-45,hombre,10.618,181.171,false,false
+20230701,13,GAU Alicante - Elche,03089,10-50,casa,no_frecuente,03,10-15,45-65,mujer,3.382,137.953,false,false
+20230701,13,GAU Alicante - Elche,GAU Alicante - Elche,10-50,no_frecuente,casa,03,10-15,45-65,hombre,181.587,2931.596,false,false
+20230701,13,GAU Aranjuez,GAU Aranjuez,0.5-2,casa,trabajo_estudio,28,10-15,45-65,mujer,11.238,18.201,false,false
+20230701,13,GAU Arrecife,GAU Arrecife,2-10,trabajo_estudio,frecuente,35,10-15,25-45,hombre,3.179,7.575,false,false
+20230701,13,GAU Barcelona,GAU Barcelona,2-10,no_frecuente,no_frecuente,01,>15,0-25,mujer,5.831,38.668,false,false
+20230701,13,GAU Bilbao,GAU Zaragoza,>50,no_frecuente,casa,50,10-15,45-65,hombre,3.048,761.059,false,false
+20230701,13,GAU Burgos,GAU Burgos,2-10,trabajo_estudio,frecuente,09,10-15,65-100,hombre,3.8,8.185,false,false
+20230701,13,GAU El Ejido,GAU El Ejido,2-10,no_frecuente,no_frecuente,02,10-15,25-45,mujer,3.702,11.391,false,false
+20230701,13,GAU Madrid,28068,2-10,frecuente,trabajo_estudio,28,10-15,NA,NA,5.589,52.413,false,false
+20230701,13,GAU Motril,GAU Motril,0.5-2,trabajo_estudio,frecuente,18,<10,45-65,mujer,5.507,6.509,false,false
+20230701,13,GAU Palma de Mallorca,07038_AM,10-50,casa,frecuente,07,10-15,65-100,mujer,4.476,146.491,false,false
+20230701,13,GAU Santa Cruz de Tenerife - La Laguna,GAU Santa Cruz de Tenerife - La Laguna,0.5-2,no_frecuente,casa,38,<10,65-100,mujer,11.874,15.126,false,false
+20230701,13,GAU Santiago de Compostela,36052,10-50,casa,no_frecuente,15,10-15,65-100,mujer,5.378,149.024,false,false
+20230701,13,GAU Valladolid,GAU Madrid,>50,casa,frecuente,47,10-15,0-25,hombre,7.55,1179.089,false,false
+20230701,13,GAU Vélez-Málaga,GAU Málaga,10-50,no_frecuente,casa,29,10-15,65-100,NA,3.304,58.515,false,false
+20230701,13,GAU Zaragoza,GAU Zaragoza,0.5-2,frecuente,frecuente,37,10-15,NA,NA,8.07,9.697,false,false
+20230701,14,02009,03079,>50,no_frecuente,casa,03,10-15,NA,NA,3.919,214.113,false,false
+20230701,14,04053,04053,2-10,frecuente,casa,04,<10,0-25,hombre,14.959,74.861,false,false
+20230701,14,04075,04035,10-50,no_frecuente,frecuente,04,<10,45-65,NA,4.831,90.533,false,false
+20230701,14,10067,10067,0.5-2,casa,trabajo_estudio,10,10-15,25-45,NA,4.444,4.76,false,false
+20230701,14,11007,11007,0.5-2,no_frecuente,no_frecuente,11,<10,45-65,mujer,1.991,1.283,false,false
+20230701,14,15023_AM,15020,10-50,casa,frecuente,15,10-15,NA,NA,16.634,239.155,false,false
+20230701,14,15071,15073,2-10,frecuente,casa,15,10-15,65-100,mujer,3.643,34.31,false,false
+20230701,14,15087,15087,2-10,frecuente,casa,15,10-15,65-100,NA,17.22,73.491,false,false
+20230701,14,15087,GAU Ferrol,10-50,frecuente,casa,15,10-15,0-25,hombre,4.231,42.848,false,false
+20230701,14,17117,17067_AM,10-50,no_frecuente,casa,17,10-15,NA,NA,3.115,64.804,false,false
+20230701,14,19274_AM,GAU Guadalajara,10-50,frecuente,frecuente,19,10-15,NA,NA,13.666,293.12,false,false
+20230701,14,23024,23094_AM,10-50,no_frecuente,casa,23,<10,NA,NA,2.815,33.077,false,false
+20230701,14,28052,13028_AM,>50,no_frecuente,no_frecuente,28,10-15,65-100,mujer,5.183,419.897,false,false
+20230701,14,28172,28172,2-10,no_frecuente,no_frecuente,45,<10,NA,NA,2.492,15.503,false,false
+20230701,14,29041,29068,2-10,trabajo_estudio,casa,29,<10,45-65,NA,3.002,8.785,false,false
+20230701,14,30017,30013,10-50,frecuente,no_frecuente,30,<10,45-65,NA,5.369,108.097,false,false
+20230701,14,30037,GAU Cartagena,2-10,frecuente,frecuente,30,10-15,0-25,mujer,5.04,31.073,false,false
+20230701,14,31041_AM,31097,2-10,casa,frecuente,31,10-15,NA,NA,35.098,131.466,false,false
+20230701,14,31904_AM,GAU Pamplona,2-10,frecuente,trabajo_estudio,31,10-15,NA,NA,3.42,25.308,false,false
+20230701,14,37008,GAU Salamanca,10-50,no_frecuente,frecuente,37,10-15,45-65,hombre,1.845,37.357,false,false
+20230701,14,38024,38024,2-10,no_frecuente,no_frecuente,38,10-15,NA,NA,1.835,13.725,false,false
+20230701,14,45081,05014_AM,>50,no_frecuente,no_frecuente,28,10-15,45-65,hombre,3.073,332.63,false,false
+20230701,14,46184,46184,2-10,frecuente,casa,46,<10,0-25,NA,36.966,138.526,false,false
+20230701,14,FRI15,GAU Madrid,>50,no_frecuente,no_frecuente,04,10-15,NA,NA,1.566,565.705,false,false
+20230701,14,GAU Aranjuez,GAU Aranjuez,2-10,trabajo_estudio,casa,28,10-15,0-25,mujer,15.792,45.869,false,false
+20230701,14,GAU Barcelona,GAU Barcelona,0.5-2,frecuente,frecuente,03,10-15,NA,NA,5.491,7.708,false,false
+20230701,14,GAU Barcelona,GAU Blanes - Lloret de Mar,0.5-2,no_frecuente,no_frecuente,08,10-15,25-45,hombre,2.952,5.616,false,false
+20230701,14,GAU Bilbao,09410,10-50,casa,frecuente,48,>15,65-100,NA,3.069,108.869,false,false
+20230701,14,GAU Bilbao,39020,10-50,trabajo_estudio,no_frecuente,48,10-15,45-65,hombre,3.698,144.427,false,false
+20230701,14,GAU Bilbao,GAU Bilbao,10-50,frecuente,casa,48,10-15,25-45,NA,8.386,103.722,false,false
+20230701,14,GAU Cartagena,GAU Cartagena,0.5-2,no_frecuente,frecuente,30,10-15,45-65,NA,4.571,2.473,false,false
+20230701,14,GAU Donostia/San Sebastián,FR107,2-10,no_frecuente,no_frecuente,09,>15,65-100,hombre,1.423,2.91,false,false
+20230701,14,GAU Donostia/San Sebastián,FRI15,2-10,casa,no_frecuente,20,10-15,0-25,mujer,2.604,5.688,false,false
+20230701,14,GAU La Costa Blanca,GAU Valencia,>50,casa,no_frecuente,03,10-15,25-45,NA,3.818,404.351,false,false
+20230701,14,GAU Santander - Torrelavega,39059,>50,trabajo_estudio,no_frecuente,39,10-15,NA,NA,2.446,138.119,false,false
+20230701,14,GAU Santander - Torrelavega,GAU Santander - Torrelavega,10-50,frecuente,trabajo_estudio,39,10-15,25-45,hombre,3.778,70.665,false,false
+20230701,14,GAU Sevilla,GAU Sevilla,0.5-2,trabajo_estudio,casa,41,<10,0-25,mujer,108.858,150.542,false,false
+20230701,14,GAU Sevilla,GAU Sevilla,2-10,frecuente,frecuente,07,10-15,25-45,mujer,3.441,13.754,false,false
+20230701,14,GAU Valencia,GAU Sagunto/Sagunt,10-50,no_frecuente,no_frecuente,28,10-15,45-65,hombre,2.706,56.241,false,false
+20230701,15,08138,GAU Barcelona,10-50,no_frecuente,casa,08,>15,0-25,NA,10.446,412.731,false,false
+20230701,15,09124_AM,09209_AM,10-50,no_frecuente,no_frecuente,48,10-15,NA,NA,2.15,21.643,false,false
+20230701,15,14054,14023_AM,10-50,casa,frecuente,14,<10,45-65,hombre,2.607,31.448,false,false
+20230701,15,15073,36901,10-50,no_frecuente,no_frecuente,27,10-15,65-100,NA,8.438,103.464,false,false
+20230701,15,20016_AM,GAU Donostia/San Sebastián,10-50,casa,frecuente,20,>15,NA,NA,2.276,45.171,false,false
+20230701,15,21018_AM,21017_AM,10-50,no_frecuente,no_frecuente,21,10-15,NA,NA,1.628,32.629,false,false
+20230701,15,21023_AM,21052_AM,10-50,casa,trabajo_estudio,21,10-15,NA,NA,2.972,70.192,false,false
+20230701,15,24170_AM,GAU Ponferrada,2-10,casa,frecuente,24,10-15,NA,NA,24.458,141.752,false,false
+20230701,15,26005,GAU Logroño,2-10,frecuente,frecuente,26,10-15,NA,NA,2.93,15.189,false,false
+20230701,15,26071_AM,26042_AM,10-50,casa,frecuente,26,10-15,45-65,NA,4.051,41.006,false,false
+20230701,15,30012,30012,0.5-2,frecuente,casa,30,<10,0-25,NA,14.67,23.202,false,false
+20230701,15,32013_AM,32019,2-10,casa,trabajo_estudio,32,10-15,NA,NA,9.577,48.386,false,false
+20230701,15,32032,GAU Vigo - Pontevedra,>50,casa,no_frecuente,32,10-15,45-65,NA,4.203,330.356,false,false
+20230701,15,32050,32085,0.5-2,frecuente,casa,32,10-15,45-65,NA,8.706,14.581,false,false
+20230701,15,37172_AM,10184_AM,10-50,casa,no_frecuente,37,10-15,NA,NA,8.25,384.435,false,false
+20230701,15,38035_AM,38020,10-50,no_frecuente,casa,38,10-15,25-45,mujer,3.754,145.509,false,false
+20230701,15,38039,GAU Santa Cruz de Tenerife - La Laguna,10-50,no_frecuente,casa,38,10-15,45-65,NA,6.77,117.461,false,false
+20230701,15,42094_AM,GAU Soria,2-10,frecuente,no_frecuente,42,>15,25-45,mujer,3.561,21.466,false,false
+20230701,15,43042_AM,43007_AM,2-10,casa,frecuente,43,>15,NA,NA,3.05,11.474,false,false
+20230701,15,43090_AM,43108_AM,2-10,casa,no_frecuente,43,10-15,NA,NA,1.649,6.136,false,false
+20230701,15,46070,46228,10-50,frecuente,casa,46,10-15,NA,NA,12.389,135.849,false,false
+20230701,15,48001_AM,48001_AM,2-10,casa,no_frecuente,48,>15,NA,NA,3.8,9.655,false,false
+20230701,15,49187_AM,24154_AM,10-50,casa,trabajo_estudio,49,10-15,NA,NA,3.556,54.543,false,false
+20230701,15,49187_AM,49193_AM,10-50,no_frecuente,no_frecuente,47,10-15,25-45,hombre,2.388,65.828,false,false
+20230701,15,49250_AM,49250_AM,2-10,frecuente,frecuente,05,<10,NA,NA,3.548,24.265,false,false
+20230701,15,FRJ15,17132_AM,10-50,no_frecuente,frecuente,17,10-15,25-45,NA,4.213,178.098,false,false
+20230701,15,GAU Córdoba,14017,10-50,trabajo_estudio,casa,14,<10,0-25,NA,6.07,145.076,false,false
+20230701,15,GAU La Costa del Sol,GAU La Costa del Sol,2-10,no_frecuente,frecuente,29,10-15,25-45,hombre,18.09,69.466,false,false
+20230701,15,GAU Vigo - Pontevedra,GAU Vigo - Pontevedra,10-50,frecuente,no_frecuente,36,10-15,0-25,hombre,14.464,178.363,false,false
+20230701,15,GAU Ávila,GAU Ávila,0.5-2,trabajo_estudio,casa,05,10-15,0-25,NA,48.613,62.56,false,false
+20230701,16,08145_AM,43051,2-10,no_frecuente,casa,43,10-15,25-45,NA,2.724,7.827,false,false
+20230701,16,08286_AM,08143,2-10,frecuente,casa,08,10-15,NA,NA,6.096,39.404,false,false
+20230701,16,09434_AM,GAU Valladolid,>50,no_frecuente,no_frecuente,09,10-15,0-25,mujer,13.346,1547.156,false,false
+20230701,16,14055,14055,2-10,no_frecuente,casa,14,<10,25-45,hombre,5.196,30.83,false,false
+20230701,16,16905_AM,GAU La Costa Blanca,>50,no_frecuente,no_frecuente,16,10-15,45-65,mujer,5.432,1139.551,false,false
+20230701,16,17141,08098_AM,>50,no_frecuente,no_frecuente,08,10-15,65-100,mujer,4.207,357.062,false,false
+20230701,16,21044,GAU Huelva,10-50,casa,trabajo_estudio,21,<10,25-45,NA,3.143,45.234,false,false
+20230701,16,21060,GAU Huelva,2-10,casa,frecuente,21,10-15,25-45,NA,25.155,186.579,false,false
+20230701,16,22901_AM,22901_AM,10-50,no_frecuente,no_frecuente,50,10-15,65-100,NA,2.932,61.302,false,false
+20230701,16,28095,GAU Madrid,10-50,frecuente,frecuente,28,10-15,45-65,mujer,3.334,44.579,false,false
+20230701,16,30035,03902,10-50,no_frecuente,frecuente,18,<10,NA,NA,1.502,17.001,false,false
+20230701,16,35028,GAU Madrid,>50,no_frecuente,no_frecuente,28,>15,65-100,hombre,3.324,5274.41,false,false
+20230701,16,39026_AM,GAU Santander - Torrelavega,10-50,no_frecuente,casa,39,10-15,25-45,NA,6.746,101.973,false,false
+20230701,16,41075,41012,10-50,casa,frecuente,41,<10,NA,NA,2.116,32.066,false,false
+20230701,16,43126_AM,GAU Tarragona - Reus,2-10,trabajo_estudio,frecuente,43,10-15,45-65,NA,2.529,12.469,false,false
+20230701,16,46116,46214_AM,2-10,frecuente,frecuente,46,10-15,65-100,hombre,2.334,8.329,false,false
+20230701,16,GAU Castellón de la Plana,GAU Castellón de la Plana,0.5-2,frecuente,frecuente,12,10-15,65-100,mujer,52.377,64.532,false,false
+20230701,16,GAU Ciudad Real,GAU Ciudad Real,2-10,no_frecuente,casa,13,10-15,0-25,mujer,17.514,57.208,false,false
+20230701,16,GAU Granada,GAU Granada,2-10,no_frecuente,no_frecuente,23,<10,NA,NA,50.745,186.724,false,false
+20230701,16,GAU La Costa del Sol,GAU La Costa del Sol,2-10,casa,trabajo_estudio,29,<10,45-65,NA,4.742,18.701,false,false
+20230701,16,GAU Roquetas de Mar,GAU Almería,2-10,frecuente,no_frecuente,04,<10,45-65,hombre,2.168,17.716,false,false
+20230701,16,GAU Sant Feliú de Guixols,17181,10-50,casa,frecuente,17,10-15,25-45,NA,4.013,44.861,false,false
+20230701,16,GAU Santander - Torrelavega,GAU Santander - Torrelavega,0.5-2,frecuente,no_frecuente,39,10-15,45-65,mujer,32.57,37.331,false,false
+20230701,16,GAU Santiago de Compostela,GAU Santiago de Compostela,10-50,no_frecuente,casa,15,>15,45-65,hombre,2.375,27.466,false,false
+20230701,16,GAU Torrevieja,GAU Orihuela,2-10,no_frecuente,no_frecuente,30,>15,65-100,mujer,4.505,15.026,false,false
+20230701,16,GAU Vitoria/Gasteiz,GAU Vitoria/Gasteiz,0.5-2,casa,frecuente,01,>15,0-25,hombre,5.807,7.612,true,false
+20230701,16,GAU Vitoria/Gasteiz,GAU Vitoria/Gasteiz,0.5-2,no_frecuente,no_frecuente,35,10-15,25-45,mujer,4.169,8.128,false,false
+20230701,16,GAU Zaragoza,22116_AM,10-50,no_frecuente,no_frecuente,22,<10,NA,NA,2.381,89.153,false,false
+20230701,17,03097_AM,03102,2-10,trabajo_estudio,casa,03,10-15,NA,NA,2.61,17.385,false,false
+20230701,17,03902,03902,0.5-2,no_frecuente,no_frecuente,28,10-15,65-100,hombre,3.258,2.409,false,false
+20230701,17,05014_AM,45125,10-50,frecuente,casa,45,<10,0-25,mujer,10.071,336.205,false,false
+20230701,17,07039,07039,2-10,casa,trabajo_estudio,07,10-15,NA,NA,23.501,198.895,false,false
+20230701,17,07039,07044,2-10,no_frecuente,no_frecuente,07,10-15,45-65,NA,2.094,10.813,false,false
+20230701,17,08016_AM,GAU Barcelona,>50,no_frecuente,frecuente,08,10-15,45-65,hombre,4.921,413.192,false,false
+20230701,17,08175_AM,GAU Manresa,10-50,no_frecuente,frecuente,08,10-15,NA,NA,4.234,101.459,false,false
+20230701,17,10087_AM,10140_AM,2-10,trabajo_estudio,casa,10,<10,NA,NA,19.555,129.951,false,false
+20230701,17,12138,GAU Barcelona,>50,no_frecuente,casa,08,10-15,NA,NA,3.884,689.616,false,false
+20230701,17,15016,15040,2-10,casa,trabajo_estudio,15,<10,NA,NA,4.352,37.346,false,false
+20230701,17,17086_AM,17111_AM,10-50,frecuente,casa,17,10-15,NA,NA,4.429,99.812,false,false
+20230701,17,18017,18017,2-10,frecuente,casa,18,<10,45-65,mujer,67.855,233.517,false,false
+20230701,17,20043_AM,20077_AM,10-50,no_frecuente,trabajo_estudio,20,>15,NA,NA,2.767,31.15,false,false
+20230701,17,21060,21021,10-50,no_frecuente,no_frecuente,21,<10,NA,NA,9.047,102.887,false,false
+20230701,17,30036,30037,10-50,casa,frecuente,30,<10,45-65,mujer,3.094,41.722,false,false
+20230701,17,30043,30043,0.5-2,casa,trabajo_estudio,30,<10,45-65,hombre,19.926,25.814,false,false
+20230701,17,32058_AM,32043,2-10,no_frecuente,frecuente,32,>15,25-45,NA,3.003,26.004,false,false
+20230701,17,32063_AM,32031_AM,10-50,casa,frecuente,32,10-15,65-100,hombre,22.9,424.322,false,false
+20230701,17,35014,35014,10-50,casa,frecuente,35,<10,0-25,mujer,16.032,210.293,false,false
+20230701,17,38019,GAU Tenerife Sur,10-50,no_frecuente,no_frecuente,18,<10,45-65,hombre,1.75,37.001,false,false
+20230701,17,41012,41012,2-10,frecuente,casa,41,<10,NA,NA,10.673,46.339,false,false
+20230701,17,43161,43161,2-10,trabajo_estudio,frecuente,43,10-15,45-65,hombre,1.86,9.455,false,false
+20230701,17,46011_AM,46083,2-10,casa,frecuente,46,10-15,NA,NA,3.772,22.017,false,false
+20230701,17,46143_AM,GAU Gandía,2-10,frecuente,casa,46,10-15,0-25,NA,3.515,20.747,false,true
+20230701,17,47104_AM,47112_AM,2-10,casa,frecuente,47,10-15,NA,NA,6.049,53.072,false,false
+20230701,17,GAU Alicante - Elche,GAU Alicante - Elche,0.5-2,frecuente,casa,03,10-15,0-25,hombre,57.259,58.409,false,true
+20230701,17,GAU Alicante - Elche,GAU La Costa Blanca,2-10,frecuente,no_frecuente,03,<10,45-65,hombre,2.727,27.186,false,false
+20230701,17,GAU Central de Asturias,GAU Barcelona,>50,no_frecuente,casa,08,>15,45-65,mujer,4.228,2922.144,false,false
+20230701,17,GAU Central de Asturias,GAU Central de Asturias,0.5-2,no_frecuente,no_frecuente,02,10-15,25-45,mujer,4.779,9.419,false,false
+20230701,17,GAU Eivissa,GAU Eivissa,0.5-2,no_frecuente,frecuente,07,>15,45-65,mujer,1.892,3.177,false,false
+20230701,17,GAU Gran Canaria Sur,GAU Gran Canaria Sur,2-10,trabajo_estudio,casa,35,10-15,0-25,hombre,29.306,137.329,false,false
+20230701,17,GAU Granada,GAU Granada,0.5-2,frecuente,frecuente,29,10-15,45-65,hombre,4.473,5.766,false,false
+20230701,17,GAU Guadalajara,GAU Guadalajara,2-10,no_frecuente,casa,19,10-15,45-65,mujer,36.917,204.481,false,false
+20230701,17,GAU Lleida,25137,10-50,no_frecuente,casa,25,10-15,25-45,NA,9.171,211.461,false,false
+20230701,17,GAU Lleida,GAU Lleida,2-10,no_frecuente,casa,25,>15,65-100,NA,7.2,33.489,false,false
+20230701,17,GAU Logroño,GAU Logroño,2-10,casa,frecuente,01,10-15,NA,NA,5.118,24.323,false,false
+20230701,17,GAU Madrid,GAU Madrid,10-50,no_frecuente,no_frecuente,43,10-15,25-45,NA,2.654,64.131,false,false
+20230701,17,GAU Madrid,GAU Madrid,10-50,no_frecuente,no_frecuente,48,>15,65-100,mujer,5.562,70.653,false,false
+20230701,17,GAU Madrid,GAU Ávila,>50,casa,no_frecuente,28,>15,0-25,hombre,5.792,523.004,false,false
+20230701,17,GAU Motril,GAU Motril,2-10,no_frecuente,no_frecuente,01,10-15,NA,NA,3.123,7.118,false,false
+20230701,17,GAU Málaga,GAU Málaga,2-10,casa,no_frecuente,29,>15,25-45,hombre,37.324,175.565,false,false
+20230701,17,GAU Mérida,06011,10-50,casa,no_frecuente,06,10-15,NA,NA,3.086,83.574,false,false
+20230701,17,GAU Palma de Mallorca,GAU Palma de Mallorca,2-10,frecuente,no_frecuente,07,10-15,25-45,mujer,278.301,1461.83,false,false
+20230701,17,GAU Pamplona,GAU Pamplona,0.5-2,frecuente,no_frecuente,31,>15,NA,NA,23.149,29.309,false,false
+20230701,17,GAU Tenerife Sur,38019,2-10,casa,frecuente,38,<10,45-65,hombre,19.665,123.855,false,false
+20230701,17,GAU Valencia,30017,>50,no_frecuente,casa,30,<10,45-65,NA,6.707,1277.938,false,false
+20230701,17,PT11E,49151_AM,2-10,no_frecuente,no_frecuente,49,10-15,45-65,hombre,1.0,8.957,false,false
+20230701,17,PT184,GAU Vigo - Pontevedra,10-50,no_frecuente,no_frecuente,36,10-15,25-45,NA,1.0,20.677,false,false
+20230701,18,07046,GAU Eivissa,10-50,no_frecuente,no_frecuente,11,10-15,0-25,hombre,9.658,121.603,false,false
+20230701,18,11014,GAU La Bahía de Cádiz,2-10,frecuente,no_frecuente,11,10-15,NA,NA,6.48,43.524,false,false
+20230701,18,11035,11035,2-10,no_frecuente,no_frecuente,11,<10,45-65,NA,1.727,11.685,false,false
+20230701,18,13079,13079,0.5-2,frecuente,frecuente,13,10-15,NA,NA,2.682,3.655,false,false
+20230701,18,15019,GAU Santiago de Compostela,10-50,casa,frecuente,15,10-15,0-25,hombre,5.468,241.78,false,false
+20230701,18,15052,15052,10-50,casa,frecuente,15,<10,NA,NA,3.059,33.422,false,false
+20230701,18,17056_AM,GAU Girona,2-10,frecuente,frecuente,17,<10,NA,NA,1.659,11.965,false,false
+20230701,18,22059_AM,22130,10-50,no_frecuente,no_frecuente,44,>15,65-100,mujer,7.474,208.232,false,false
+20230701,18,33036,33012,10-50,no_frecuente,no_frecuente,28,10-15,45-65,mujer,2.955,59.839,false,false
+20230701,18,36034,36042,2-10,frecuente,casa,36,10-15,25-45,mujer,23.22,185.584,false,false
+20230701,18,36042,36050,2-10,casa,trabajo_estudio,36,10-15,65-100,NA,15.746,93.822,false,false
+20230701,18,36060,36006,2-10,no_frecuente,casa,36,10-15,NA,NA,20.444,155.733,false,false
+20230701,18,38009,38033,10-50,frecuente,trabajo_estudio,38,<10,NA,NA,2.664,47.608,false,false
+20230701,18,39080,GAU Valladolid,>50,no_frecuente,no_frecuente,47,10-15,45-65,hombre,2.45,489.097,false,false
+20230701,18,43051,43037,0.5-2,no_frecuente,no_frecuente,08,10-15,65-100,mujer,7.927,7.673,false,false
+20230701,18,48096,48045,2-10,casa,trabajo_estudio,48,10-15,65-100,mujer,14.486,54.894,false,false
+20230701,18,GAU Barcelona,GAU Barcelona,0.5-2,casa,frecuente,08,>15,65-100,NA,690.774,831.445,false,false
+20230701,18,GAU Central de Asturias,33032,10-50,no_frecuente,casa,33,10-15,45-65,NA,12.396,344.284,false,false
+20230701,18,GAU Cuenca,GAU Madrid,>50,trabajo_estudio,no_frecuente,16,10-15,25-45,mujer,6.921,962.52,false,false
+20230701,18,GAU Donostia/San Sebastián,20016_AM,10-50,frecuente,trabajo_estudio,20,>15,NA,NA,3.213,42.384,false,false
+20230701,18,GAU Gran Canaria Sur,GAU Las Palmas de Gran Canaria,2-10,trabajo_estudio,frecuente,35,10-15,25-45,NA,1.639,7.213,false,false
+20230701,18,GAU La Bahía de Cádiz,GAU La Bahía de Cádiz,0.5-2,casa,frecuente,11,10-15,NA,NA,14.355,12.98,true,false
+20230701,18,GAU Lleida,GAU Lleida,2-10,frecuente,frecuente,25,>15,45-65,NA,5.735,22.512,false,false
+20230701,18,GAU Madrid,45198,>50,frecuente,no_frecuente,28,10-15,25-45,hombre,3.147,194.889,false,false
+20230701,18,GAU Murcia,GAU Murcia,2-10,no_frecuente,no_frecuente,28,>15,25-45,hombre,3.514,8.223,false,false
+20230701,18,GAU Málaga,GAU La Costa del Sol,10-50,frecuente,trabajo_estudio,29,10-15,45-65,mujer,2.852,87.958,false,false
+20230701,18,GAU Málaga,GAU Málaga,0.5-2,no_frecuente,no_frecuente,52,<10,45-65,mujer,10.118,8.745,false,false
+20230701,18,GAU Roquetas de Mar,GAU Roquetas de Mar,2-10,no_frecuente,no_frecuente,18,10-15,0-25,hombre,5.363,14.149,false,false
+20230701,18,GAU Santander - Torrelavega,39001_AM,10-50,casa,no_frecuente,39,10-15,25-45,NA,11.485,329.237,false,false
+20230701,18,GAU Sevilla,GAU Córdoba,>50,no_frecuente,casa,14,10-15,65-100,mujer,8.508,956.05,false,false
+20230701,18,GAU Talavera de la Reina,45132_AM,2-10,frecuente,no_frecuente,45,<10,NA,NA,8.873,36.362,false,false
+20230701,18,GAU Talavera de la Reina,GAU Talavera de la Reina,10-50,no_frecuente,no_frecuente,28,10-15,NA,NA,3.066,32.192,false,false
+20230701,18,GAU Tarragona - Reus,GAU Tarragona - Reus,0.5-2,frecuente,trabajo_estudio,43,10-15,0-25,mujer,7.806,8.046,false,false
+20230701,18,GAU Tarragona - Reus,GAU Tarragona - Reus,10-50,no_frecuente,no_frecuente,08,>15,25-45,NA,3.565,65.628,false,false
+20230701,18,GAU Valencia,46111,10-50,frecuente,no_frecuente,46,10-15,25-45,hombre,2.993,53.145,false,false
+20230701,18,PT186,GAU Badajoz,2-10,no_frecuente,trabajo_estudio,06,<10,45-65,NA,3.087,12.535,false,false
+20230701,19,03071,GAU Denia - Jávea,2-10,casa,frecuente,03,<10,NA,NA,88.433,603.588,false,false
+20230701,19,06093_AM,06070_AM,2-10,casa,no_frecuente,06,<10,NA,NA,8.797,62.793,false,false
+20230701,19,07003,07003,2-10,casa,trabajo_estudio,07,<10,25-45,mujer,9.676,25.26,false,false
+20230701,19,07033,07022,2-10,casa,no_frecuente,07,10-15,25-45,hombre,1.952,6.621,false,false
+20230701,19,08162_AM,GAU Manresa,2-10,casa,frecuente,08,>15,NA,NA,4.968,39.155,false,false
+20230701,19,08284_AM,GAU Barcelona,2-10,no_frecuente,no_frecuente,08,10-15,45-65,NA,4.7,37.215,false,false
+20230701,19,12027,12089,2-10,trabajo_estudio,no_frecuente,12,<10,25-45,hombre,6.407,35.171,false,false
+20230701,19,12089,12089,2-10,no_frecuente,no_frecuente,08,10-15,25-45,mujer,3.815,7.644,false,false
+20230701,19,13079,13053_AM,10-50,frecuente,no_frecuente,13,10-15,25-45,NA,7.707,109.863,false,false
+20230701,19,13098_AM,13098_AM,10-50,no_frecuente,no_frecuente,12,10-15,25-45,NA,3.014,34.506,false,false
+20230701,19,18039,18023,10-50,frecuente,casa,18,10-15,NA,NA,4.952,74.333,false,false
+20230701,19,20005_AM,20052_AM,2-10,casa,frecuente,20,>15,NA,NA,13.844,79.532,false,false
+20230701,19,20055,20081,10-50,casa,frecuente,20,>15,25-45,NA,3.157,98.828,false,false
+20230701,19,22048,22048,2-10,casa,frecuente,22,10-15,25-45,NA,15.8,59.618,false,false
+20230701,19,23040_AM,23061_AM,2-10,casa,trabajo_estudio,23,<10,NA,NA,11.937,84.67,false,false
+20230701,19,27044_AM,27065,10-50,no_frecuente,casa,27,10-15,NA,NA,16.604,302.452,false,false
+20230701,19,28068,28010,2-10,no_frecuente,no_frecuente,40,10-15,NA,NA,2.407,13.131,false,false
+20230701,19,28125,28131,10-50,frecuente,no_frecuente,33,>15,45-65,mujer,4.181,47.409,false,false
+20230701,19,31036_AM,GAU Pamplona,10-50,frecuente,casa,31,10-15,25-45,hombre,3.889,165.528,false,false
+20230701,19,35014,35014,2-10,casa,trabajo_estudio,35,<10,0-25,hombre,23.556,142.618,false,false
+20230701,19,37246,GAU Salamanca,10-50,no_frecuente,no_frecuente,37,10-15,65-100,mujer,4.223,164.01,false,false
+20230701,19,38042,38018,10-50,no_frecuente,casa,38,<10,NA,NA,4.852,67.978,false,false
+20230701,19,43013,GAU Barcelona,>50,no_frecuente,casa,08,>15,NA,NA,8.68,1131.154,false,false
+20230701,19,45052_AM,GAU Toledo,10-50,no_frecuente,frecuente,28,>15,45-65,hombre,2.461,32.103,false,false
+20230701,19,45157,GAU Madrid,10-50,frecuente,no_frecuente,45,10-15,NA,NA,2.184,96.152,false,false
+20230701,19,46213,46213,10-50,frecuente,casa,46,<10,45-65,mujer,3.143,35.463,false,false
+20230701,19,46214_AM,GAU Valencia,10-50,no_frecuente,casa,46,>15,65-100,hombre,2.257,40.294,false,false
+20230701,19,47165,47165,10-50,casa,trabajo_estudio,47,10-15,NA,NA,3.928,45.256,false,false
+20230701,19,48086_AM,48045,10-50,casa,frecuente,48,10-15,NA,NA,4.851,56.128,false,false
+20230701,19,50130_AM,50251_AM,2-10,trabajo_estudio,casa,50,10-15,25-45,NA,4.227,32.466,false,false
+20230701,19,FRL04,17066,>50,no_frecuente,casa,17,10-15,NA,NA,2.318,299.01,false,false
+20230701,19,GAU Blanes - Lloret de Mar,GAU Barcelona,>50,no_frecuente,no_frecuente,08,<10,65-100,hombre,2.585,142.625,false,false
+20230701,19,GAU Cartagena,GAU Murcia,>50,no_frecuente,no_frecuente,30,>15,65-100,hombre,2.655,137.916,false,false
+20230701,19,GAU Córdoba,14008,>50,casa,no_frecuente,14,<10,25-45,hombre,2.249,191.336,false,false
+20230701,19,GAU Jaén,GAU Jaén,0.5-2,frecuente,no_frecuente,23,10-15,45-65,hombre,12.097,12.147,false,false
+20230701,19,GAU La Bahía de Algeciras,11035,10-50,no_frecuente,no_frecuente,38,>15,45-65,mujer,4.093,83.067,false,false
+20230701,19,GAU Las Palmas de Gran Canaria,GAU Gran Canaria Sur,10-50,casa,no_frecuente,35,>15,45-65,mujer,6.446,92.872,false,false
+20230701,19,GAU Madrid,13028_AM,>50,frecuente,casa,13,<10,25-45,NA,5.434,653.935,false,false
+20230701,19,GAU Madrid,GAU Madrid,10-50,no_frecuente,frecuente,08,>15,0-25,hombre,4.782,72.459,false,false
+20230701,19,GAU Mérida,GAU Badajoz,>50,frecuente,frecuente,06,<10,0-25,NA,5.761,309.974,true,false
+20230701,19,GAU Orihuela,03120,2-10,frecuente,no_frecuente,03,<10,0-25,hombre,3.87,18.351,false,false
+20230701,19,GAU Salamanca,GAU Salamanca,2-10,no_frecuente,no_frecuente,48,>15,45-65,NA,3.436,15.071,false,false
+20230701,19,GAU Tarragona - Reus,43005,10-50,casa,no_frecuente,43,10-15,25-45,NA,3.666,41.814,false,false
+20230701,19,GAU Tarragona - Reus,GAU Zaragoza,>50,no_frecuente,casa,50,10-15,65-100,hombre,3.159,595.333,false,false
+20230701,19,GAU Utrera,GAU Sevilla,2-10,frecuente,no_frecuente,41,10-15,45-65,NA,1.792,13.241,false,false
+20230701,19,GAU Valencia,46214_AM,10-50,no_frecuente,frecuente,07,10-15,25-45,hombre,2.747,61.301,false,false
+20230701,19,GAU Valladolid,47085,10-50,casa,no_frecuente,47,10-15,45-65,hombre,2.846,107.779,false,false
+20230701,20,01047_AM,09219,10-50,no_frecuente,casa,09,10-15,65-100,mujer,20.589,294.45,false,false
+20230701,20,02009,30017,>50,casa,frecuente,02,10-15,45-65,hombre,2.744,291.145,false,false
+20230701,20,03015,03015,2-10,frecuente,casa,03,<10,45-65,hombre,4.538,9.542,false,false
+20230701,20,03097_AM,03102,2-10,frecuente,casa,03,10-15,NA,NA,3.446,19.651,false,false
+20230701,20,07004,GAU Palma de Mallorca,10-50,no_frecuente,casa,07,10-15,45-65,hombre,2.462,56.161,false,false
+20230701,20,07022,07061,10-50,no_frecuente,trabajo_estudio,07,10-15,NA,NA,2.39,117.58,false,false
+20230701,20,11030,11030,2-10,trabajo_estudio,casa,11,10-15,NA,NA,26.053,118.71,false,false
+20230701,20,11035,GAU Málaga,>50,no_frecuente,no_frecuente,05,10-15,45-65,mujer,2.824,327.364,false,false
+20230701,20,12128_AM,GAU Castellón de la Plana,10-50,no_frecuente,casa,12,10-15,NA,NA,3.165,45.823,false,false
+20230701,20,17146,GAU Barcelona,10-50,no_frecuente,casa,08,10-15,45-65,hombre,3.139,105.604,false,false
+20230701,20,21050,21050,10-50,casa,frecuente,21,10-15,NA,NA,1.78,27.775,false,false
+20230701,20,23005,23059,10-50,frecuente,casa,23,<10,NA,NA,18.649,220.727,false,false
+20230701,20,23092,23094_AM,10-50,frecuente,casa,23,<10,NA,NA,3.524,58.802,false,false
+20230701,20,27010,27048_AM,10-50,no_frecuente,no_frecuente,27,10-15,NA,NA,3.398,43.364,false,false
+20230701,20,28027_AM,GAU Madrid,10-50,no_frecuente,no_frecuente,28,>15,25-45,mujer,4.977,196.574,false,false
+20230701,20,29068,29068,0.5-2,frecuente,casa,29,<10,25-45,hombre,19.39,26.124,false,false
+20230701,20,29073_AM,29073_AM,2-10,casa,no_frecuente,29,<10,NA,NA,3.326,9.992,false,false
+20230701,20,30021,GAU Murcia,10-50,frecuente,casa,30,<10,0-25,mujer,6.322,196.07,false,false
+20230701,20,32056_AM,PT112,2-10,casa,no_frecuente,32,10-15,NA,NA,1.0,4.971,false,false
+20230701,20,33002,33002,10-50,frecuente,casa,33,10-15,65-100,hombre,11.993,197.963,false,false
+20230701,20,35003_AM,35017,10-50,frecuente,casa,35,10-15,0-25,mujer,14.84,249.032,false,false
+20230701,20,35023,35009,2-10,frecuente,no_frecuente,35,10-15,25-45,NA,2.919,15.607,false,false
+20230701,20,43136,43052_AM,10-50,no_frecuente,frecuente,08,10-15,25-45,hombre,3.087,101.788,false,false
+20230701,20,45161,GAU Madrid,10-50,no_frecuente,no_frecuente,46,>15,25-45,hombre,3.543,140.113,false,false
+20230701,20,46229_AM,GAU Valencia,10-50,no_frecuente,casa,46,10-15,25-45,mujer,23.427,928.61,false,false
+20230701,20,GAU A Coruña,GAU A Coruña,0.5-2,frecuente,frecuente,36,10-15,45-65,mujer,3.385,4.995,false,false
+20230701,20,GAU Alicante - Elche,03019,10-50,trabajo_estudio,casa,03,10-15,NA,NA,2.192,26.988,false,false
+20230701,20,GAU Badajoz,GAU Badajoz,2-10,casa,trabajo_estudio,06,10-15,45-65,hombre,47.912,169.548,false,false
+20230701,20,GAU Barcelona,GAU Barcelona,2-10,no_frecuente,no_frecuente,08,<10,45-65,hombre,51.241,240.641,false,false
+20230701,20,GAU Bilbao,GAU Bilbao,10-50,casa,no_frecuente,48,10-15,45-65,NA,35.339,443.118,false,false
+20230701,20,GAU Bilbao,PT170,2-10,casa,no_frecuente,48,>15,0-25,NA,1.0,4.817,false,false
+20230701,20,GAU Burgos,09907_AM,2-10,no_frecuente,no_frecuente,20,>15,NA,NA,3.84,23.594,false,false
+20230701,20,GAU Cartagena,46214_AM,>50,no_frecuente,frecuente,30,10-15,25-45,mujer,5.258,1092.953,false,false
+20230701,20,GAU Girona,17901_AM,0.5-2,casa,no_frecuente,17,>15,NA,NA,5.986,9.718,false,false
+20230701,20,GAU Lleida,25113_AM,10-50,frecuente,no_frecuente,25,10-15,NA,NA,7.833,241.281,false,false
+20230701,20,GAU Madrid,GAU Madrid,0.5-2,frecuente,no_frecuente,28,>15,65-100,mujer,625.843,707.747,false,false
+20230701,20,GAU Sagunto/Sagunt,12104,10-50,no_frecuente,casa,12,10-15,NA,NA,63.169,1727.595,false,false
+20230701,20,GAU Sagunto/Sagunt,GAU Sagunto/Sagunt,0.5-2,casa,trabajo_estudio,46,10-15,0-25,hombre,17.58,18.352,false,false
+20230701,20,GAU Santa Cruz de Tenerife - La Laguna,GAU Santa Cruz de Tenerife - La Laguna,2-10,casa,no_frecuente,38,>15,0-25,NA,30.804,145.96,false,false
+20230701,20,GAU Santander - Torrelavega,39062_AM,10-50,no_frecuente,no_frecuente,39,10-15,45-65,hombre,3.282,61.819,false,false
+20230701,20,GAU Teruel,GAU Teruel,2-10,no_frecuente,frecuente,44,10-15,65-100,mujer,3.777,23.183,false,false
+20230701,20,GAU Toledo,45189_AM,10-50,casa,frecuente,45,10-15,NA,NA,6.708,73.32,false,false
+20230701,20,GAU Valladolid,47007_AM,10-50,casa,frecuente,47,10-15,NA,NA,13.51,224.681,false,false
+20230701,21,06005_AM,06143,10-50,casa,trabajo_estudio,06,<10,NA,NA,2.659,39.307,false,false
+20230701,21,07003,07003,2-10,no_frecuente,trabajo_estudio,07,10-15,45-65,NA,2.359,4.887,false,false
+20230701,21,07015,07032,10-50,no_frecuente,no_frecuente,48,10-15,25-45,mujer,3.322,130.52,false,false
+20230701,21,07055,07003,10-50,trabajo_estudio,casa,07,<10,45-65,hombre,1.662,24.204,false,false
+20230701,21,08250,08044_AM,10-50,casa,trabajo_estudio,08,10-15,45-65,NA,3.884,40.828,false,false
+20230701,21,09903,09124_AM,10-50,frecuente,casa,09,10-15,NA,NA,7.177,117.588,false,false
+20230701,21,17089,17044,2-10,frecuente,casa,17,10-15,25-45,NA,32.351,132.881,false,false
+20230701,21,17152,17047,2-10,casa,frecuente,17,10-15,0-25,NA,16.179,102.331,false,false
+20230701,21,19160_AM,19160_AM,2-10,trabajo_estudio,casa,19,10-15,NA,NA,3.492,7.593,false,false
+20230701,21,20074,20074,2-10,frecuente,frecuente,01,10-15,65-100,mujer,3.866,9.175,false,false
+20230701,21,20080,20025_AM,2-10,frecuente,casa,20,>15,NA,NA,4.71,21.219,false,false
+20230701,21,23024,23024,2-10,casa,frecuente,23,10-15,NA,NA,8.81,22.696,false,false
+20230701,21,24183_AM,GAU León,10-50,frecuente,casa,24,10-15,25-45,NA,2.361,101.622,false,false
+20230701,21,28133,28133,2-10,casa,frecuente,28,10-15,45-65,hombre,15.152,43.529,false,false
+20230701,21,28144,28085,2-10,no_frecuente,frecuente,28,>15,NA,NA,25.146,78.424,false,false
+20230701,21,32020_AM,32024,2-10,frecuente,trabajo_estudio,32,10-15,NA,NA,7.445,68.124,false,false
+20230701,21,32085,32091_AM,2-10,frecuente,frecuente,24,10-15,NA,NA,1.481,14.361,false,false
+20230701,21,33015_AM,33015_AM,10-50,frecuente,frecuente,33,10-15,NA,NA,2.796,29.526,false,false
+20230701,21,35015,35030,10-50,no_frecuente,no_frecuente,38,10-15,45-65,hombre,3.353,92.401,false,false
+20230701,21,37142_AM,37142_AM,2-10,no_frecuente,no_frecuente,37,10-15,25-45,mujer,3.238,23.455,false,false
+20230701,21,39074,39062_AM,10-50,casa,frecuente,39,10-15,NA,NA,3.187,54.683,false,false
+20230701,21,39099,39099,2-10,trabajo_estudio,casa,39,10-15,NA,NA,3.228,10.666,false,false
+20230701,21,39099,GAU Santander - Torrelavega,2-10,frecuente,casa,39,10-15,NA,NA,31.718,145.231,false,false
+20230701,21,45161,GAU Madrid,10-50,casa,no_frecuente,45,<10,25-45,hombre,29.498,804.675,false,false
+20230701,21,46035,46212_AM,10-50,frecuente,frecuente,46,10-15,65-100,mujer,4.044,43.063,false,false
+20230701,21,46248,46261_AM,2-10,casa,frecuente,46,10-15,NA,NA,6.213,48.129,false,false
+20230701,21,47007_AM,GAU Valladolid,10-50,trabajo_estudio,casa,47,10-15,25-45,mujer,3.624,58.297,false,false
+20230701,21,48069,GAU Bilbao,10-50,no_frecuente,casa,48,10-15,25-45,hombre,3.536,45.366,false,false
+20230701,21,FRI31,GAU Donostia/San Sebastián,2-10,no_frecuente,casa,20,>15,0-25,NA,1.0,2.403,false,false
+20230701,21,GAU Blanes - Lloret de Mar,GAU Barcelona,2-10,no_frecuente,no_frecuente,08,10-15,0-25,hombre,23.138,125.926,false,false
+20230701,21,GAU Cartagena,30026,2-10,no_frecuente,no_frecuente,30,<10,45-65,NA,2.649,8.917,false,false
+20230701,21,GAU Huelva,GAU Huelva,2-10,frecuente,trabajo_estudio,21,10-15,45-65,hombre,1.985,10.789,false,false
+20230701,21,GAU Las Palmas de Gran Canaria,GAU Las Palmas de Gran Canaria,10-50,no_frecuente,no_frecuente,35,10-15,45-65,mujer,21.385,270.928,false,false
+20230701,21,GAU Málaga,GAU Málaga,0.5-2,no_frecuente,no_frecuente,07,10-15,65-100,mujer,3.161,3.512,false,false
+20230701,21,GAU Ourense,32076_AM,10-50,casa,frecuente,32,10-15,45-65,mujer,3.989,57.341,false,false
+20230701,21,GAU Palma de Mallorca,07006,>50,casa,no_frecuente,07,10-15,0-25,hombre,6.685,353.024,false,false
+20230701,21,GAU Roquetas de Mar,04102,2-10,no_frecuente,no_frecuente,28,>15,25-45,hombre,3.258,14.827,false,false
+20230701,21,GAU Sanlúcar de Barrameda,GAU Sanlúcar de Barrameda,0.5-2,casa,frecuente,11,<10,NA,NA,139.828,188.096,false,false
+20230701,21,GAU Vigo - Pontevedra,GAU Vigo - Pontevedra,2-10,no_frecuente,frecuente,15,10-15,25-45,NA,3.576,24.021,false,false
+20230701,21,GAU Vélez-Málaga,GAU Vélez-Málaga,0.5-2,no_frecuente,no_frecuente,13,10-15,45-65,NA,2.115,3.581,false,false
+20230701,22,03015,03015,10-50,casa,no_frecuente,03,<10,NA,NA,3.444,36.242,false,false
+20230701,22,07024,07024,2-10,no_frecuente,frecuente,07,10-15,NA,NA,5.824,24.78,false,false
+20230701,22,07057,07057,2-10,no_frecuente,frecuente,07,10-15,45-65,hombre,2.889,14.241,false,false
+20230701,22,08145_AM,GAU Barcelona,2-10,no_frecuente,casa,08,10-15,45-65,NA,7.835,27.662,false,false
+20230701,22,12034_AM,43156,10-50,no_frecuente,no_frecuente,46,10-15,45-65,mujer,4.81,111.329,false,false
+20230701,22,14013,14013,0.5-2,casa,no_frecuente,14,10-15,45-65,mujer,15.119,15.494,false,false
+20230701,22,14049,14049,0.5-2,trabajo_estudio,frecuente,14,10-15,25-45,mujer,2.972,3.283,false,false
+20230701,22,17211_AM,17033,10-50,no_frecuente,casa,17,10-15,NA,NA,2.16,78.923,false,false
+20230701,22,19058_AM,GAU Guadalajara,10-50,frecuente,casa,19,10-15,25-45,hombre,4.725,52.975,false,false
+20230701,22,20016_AM,20079,0.5-2,frecuente,casa,20,>15,NA,NA,3.889,6.938,false,false
+20230701,22,20028_AM,20079,10-50,no_frecuente,casa,20,>15,45-65,hombre,4.593,56.638,false,false
+20230701,22,21050,21060,10-50,casa,frecuente,21,<10,45-65,NA,5.025,83.113,false,false
+20230701,22,26036,26011,10-50,frecuente,casa,26,10-15,NA,NA,7.437,173.597,false,false
+20230701,22,28095,GAU Madrid,10-50,no_frecuente,casa,28,>15,45-65,hombre,5.46,176.674,false,false
+20230701,22,28178_AM,45013_AM,10-50,casa,no_frecuente,28,10-15,NA,NA,3.512,86.961,false,false
+20230701,22,30003,30003,10-50,frecuente,casa,30,<10,25-45,mujer,2.629,28.692,false,false
+20230701,22,30012,30029,2-10,casa,frecuente,30,<10,45-65,NA,4.655,46.035,false,false
+20230701,22,31042_AM,26036,2-10,casa,no_frecuente,31,10-15,NA,NA,18.246,101.024,false,false
+20230701,22,39091_AM,39059,10-50,no_frecuente,casa,39,10-15,NA,NA,2.718,120.226,false,false
+20230701,22,41077,41039,10-50,casa,no_frecuente,41,<10,NA,NA,2.031,64.819,false,false
+20230701,22,42094_AM,42069_AM,10-50,no_frecuente,no_frecuente,08,10-15,45-65,mujer,2.727,54.583,false,false
+20230701,22,46109,GAU Valencia,10-50,frecuente,casa,46,10-15,25-45,NA,6.816,98.947,false,false
+20230701,22,46249,46249,2-10,no_frecuente,no_frecuente,03,10-15,45-65,mujer,3.077,18.421,false,false
+20230701,22,48046,48068_AM,10-50,no_frecuente,no_frecuente,48,>15,0-25,hombre,4.72,48.716,false,false
+20230701,22,48906_AM,48068_AM,2-10,trabajo_estudio,casa,48,>15,NA,NA,6.914,26.826,false,false
+20230701,22,50126,50067,10-50,casa,trabajo_estudio,50,10-15,NA,NA,8.19,180.326,false,false
+20230701,22,GAU Almería,04032,10-50,casa,no_frecuente,04,10-15,NA,NA,2.704,134.965,false,false
+20230701,22,GAU Donostia/San Sebastián,FRI13,2-10,no_frecuente,no_frecuente,48,>15,0-25,mujer,2.586,5.506,false,false
+20230701,22,GAU Donostia/San Sebastián,GAU Donostia/San Sebastián,10-50,no_frecuente,no_frecuente,20,10-15,NA,NA,3.635,40.3,false,false
+20230701,22,GAU La Costa Blanca,GAU Alicante - Elche,10-50,no_frecuente,trabajo_estudio,03,10-15,45-65,NA,2.566,55.897,false,false
+20230701,22,GAU La Costa Blanca,GAU La Costa Blanca,0.5-2,frecuente,frecuente,03,<10,65-100,mujer,6.094,5.768,false,false
+20230701,22,GAU León,24065,2-10,frecuente,casa,24,10-15,NA,NA,31.748,264.896,false,false
+20230701,22,GAU Madrid,10006_AM,>50,no_frecuente,casa,10,10-15,NA,NA,1.7,369.908,false,false
+20230701,22,GAU Madrid,28150,2-10,trabajo_estudio,frecuente,28,>15,25-45,mujer,4.897,29.764,false,false
+20230701,22,GAU Málaga,18157_AM,>50,no_frecuente,trabajo_estudio,18,<10,25-45,NA,3.873,417.523,false,false
+20230701,22,GAU Palencia,47101_AM,>50,no_frecuente,casa,47,<10,NA,NA,14.076,1245.709,false,false
+20230701,22,GAU Ponferrada,GAU Ponferrada,2-10,frecuente,no_frecuente,24,10-15,25-45,NA,3.293,26.604,false,false
+20230701,22,GAU Santander - Torrelavega,39061,10-50,trabajo_estudio,no_frecuente,39,10-15,45-65,NA,2.631,36.988,false,false
+20230701,22,GAU Sevilla,GAU Sevilla,0.5-2,trabajo_estudio,frecuente,41,<10,45-65,NA,15.081,20.753,false,false
+20230701,22,GAU Tarragona - Reus,GAU Tarragona - Reus,10-50,casa,no_frecuente,43,10-15,25-45,hombre,10.034,126.021,false,false
+20230701,22,GAU Zaragoza,50235_AM,2-10,casa,frecuente,50,10-15,NA,NA,20.018,80.774,false,false
+20230701,23,01054_AM,01002,10-50,no_frecuente,no_frecuente,01,10-15,25-45,NA,3.629,58.117,false,false
+20230701,23,02034_AM,16113_AM,10-50,no_frecuente,no_frecuente,46,10-15,25-45,mujer,4.469,49.677,false,false
+20230701,23,14042,14019,10-50,casa,no_frecuente,14,<10,65-100,NA,1.846,34.783,false,false
+20230701,23,16124_AM,16133,10-50,casa,frecuente,16,<10,NA,NA,3.856,45.949,false,false
+20230701,23,18150,18150,2-10,frecuente,casa,18,10-15,NA,NA,50.644,156.07,false,false
+20230701,23,21042,21042,0.5-2,no_frecuente,no_frecuente,41,<10,45-65,hombre,2.602,2.143,false,false
+20230701,23,23003,23002,10-50,frecuente,casa,23,10-15,NA,NA,2.041,42.046,false,false
+20230701,23,23092,23092,0.5-2,no_frecuente,no_frecuente,06,10-15,45-65,mujer,7.843,12.697,false,false
+20230701,23,28052,GAU Madrid,>50,no_frecuente,no_frecuente,33,10-15,NA,NA,2.656,168.519,false,false
+20230701,23,30035,30035,2-10,trabajo_estudio,casa,30,10-15,65-100,NA,9.401,39.096,false,false
+20230701,23,30036,GAU Torrevieja,10-50,casa,no_frecuente,30,<10,45-65,mujer,7.446,141.089,false,false
+20230701,23,33007_AM,33023,10-50,frecuente,trabajo_estudio,33,10-15,NA,NA,2.781,35.356,false,false
+20230701,23,33036,33036,0.5-2,casa,frecuente,33,10-15,45-65,NA,5.225,7.205,false,false
+20230701,23,35009,GAU Las Palmas de Gran Canaria,10-50,no_frecuente,frecuente,35,10-15,25-45,mujer,4.395,104.689,false,false
+20230701,23,38048,38048,2-10,frecuente,no_frecuente,38,10-15,NA,NA,8.959,25.33,false,false
+20230701,23,46256,46051,0.5-2,frecuente,casa,46,10-15,NA,NA,16.874,26.512,false,false
+20230701,23,49193_AM,49003_AM,10-50,no_frecuente,no_frecuente,47,10-15,25-45,mujer,5.314,64.056,false,false
+20230701,23,GAU Arrecife,35024,2-10,casa,trabajo_estudio,35,10-15,45-65,hombre,2.662,23.352,false,false
+20230701,23,GAU Bilbao,GAU Bilbao,2-10,no_frecuente,frecuente,48,10-15,65-100,NA,55.947,195.851,false,false
+20230701,23,GAU El Ejido,GAU El Ejido,2-10,trabajo_estudio,frecuente,04,<10,25-45,hombre,16.02,140.235,false,false
+20230701,23,GAU Girona,17056_AM,10-50,no_frecuente,trabajo_estudio,17,10-15,NA,NA,3.369,61.483,false,false
+20230701,23,GAU Huelva,GAU Huelva,0.5-2,frecuente,casa,21,10-15,0-25,mujer,77.882,90.303,false,false
+20230701,23,GAU Madrid,28010,2-10,frecuente,frecuente,28,10-15,45-65,hombre,8.745,44.201,false,false
+20230701,23,GAU Roquetas de Mar,GAU Roquetas de Mar,0.5-2,frecuente,casa,04,<10,25-45,hombre,174.564,192.93,false,false
+20230701,23,GAU Tarragona - Reus,43038_AM,0.5-2,frecuente,trabajo_estudio,43,10-15,0-25,mujer,3.903,7.315,false,false
+20230701,23,GAU Vigo - Pontevedra,36002,2-10,trabajo_estudio,frecuente,36,10-15,NA,NA,4.43,25.938,false,false
+20230701,23,GAU Vitoria/Gasteiz,20080,10-50,no_frecuente,casa,20,>15,45-65,NA,13.221,516.648,false,false
